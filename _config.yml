@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Youngsik Choi"
   avatar           : "profile.png"
-  bio              : "A PhD student pursuing building energy studies for high performance building & community"
-  location         : "College Station, TX, USA"
+  bio              : "A graduate student pursuing building energy studies for high performance building & community"
+  location         :  "Seoul, Republic of Korea"#"College Station, TX, USA"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
