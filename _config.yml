@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Youngsik Choi / Texas A&M University"
+title                    : "Youngsik Choi"
 title_separator          : "-"
 name                     : &name "Youngsik Choi"
 description              : &description "personal description"
