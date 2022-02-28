@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Education
+======
+
+* Ph.D. in Mechanical Engineering, Texas A&M University	(Expected to start in Jun. 2022)  
+  * Advisor: [Prof. Zheng O'Neill](https://hvac.engr.tamu.edu/)
+
+* M.S. in Architecture and Architectural Engineering, Seoul National University (Mar. 2020 – Feb. 2022)
+  * Advisor: [Prof. Cheol-Soo Park](http://bs.snu.ac.kr/)
+  * Thesis: ‘Stochastic Setpoint Temperature Learning for Occupant Behavior-based Control'
+  * GPA: 3.97/4.3 (major: 4.3/4.3) 
+
+* B.S. in Architecture and Architectural Engineering, Seoul National University	(Mar. 2014 – Feb. 2020)
+  * GPA: 3.88/4.3 (rank: 6th out of 66 graduated students)
+  * 2-year absence to fulfill mandatory military service (Aug. 2016 – Jul. 2018)
+
+* Exchange Student, Peking University (Jul. 2016)
+  * International Exchange Student (Summer session offered in English)
+
 
 A data-driven personal website
 ======
