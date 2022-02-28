@@ -7,9 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+About
+======
+&nbsp; &nbsp; &nbsp; &nbsp;  I am a graduate student who is interested in building energy & HVAC research.
 
-[Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf)
+&nbsp; &nbsp; &nbsp; &nbsp;  [Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf)
 
+\
+\
 Education
 ======
 
@@ -25,6 +30,8 @@ Education
 * **Exchange Student** in Engineering, **Peking University**, China (2016.7.)
   * Summer session offered in English
 
+\
+\
 Honors & Awards
 ======
 
