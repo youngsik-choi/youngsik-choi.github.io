@@ -12,18 +12,6 @@ redirect_from:
 Academic Experience
 ======
 * **Teaching Assistance**
-
-Professional Experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Technical Skills
 ======
@@ -37,3 +25,18 @@ Technical Skills
 Courses Covered
 ======
 
+Projects
+======
+* **HEMS**
+
+Other Experience
+======
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
