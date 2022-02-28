@@ -2,13 +2,10 @@
 main:
 
   - title: "Academic Backgrounds"
-    url: /portfolio/
+    url: /backgrounds/
   
   - title: "Publications"
     url: /publications/
-        
-  - title: "Others"
-    url: /year-archive/
 
   #- title: "Talks"
   #  url: /talks/    
