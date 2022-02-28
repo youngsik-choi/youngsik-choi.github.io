@@ -11,19 +11,19 @@ redirect_from:
 Education
 ======
 
-* Ph.D. in Mechanical Engineering, Texas A&M University	(Expected to start in Jun. 2022)  
+* **Ph.D. Student** in Mechanical Engineering, **Texas A&M University**, U.S.A. (Expected to start in 2022.6.)
   * Advisor: [Prof. Zheng O'Neill](https://hvac.engr.tamu.edu/)
 
-* M.S. in Architecture and Architectural Engineering, Seoul National University (Mar. 2020 – Feb. 2022)
+* **M.S.** in Architecture and Architectural Engineering, **Seoul National University**, South Korea (2020.3.-2022.2.)
   * Advisor: [Prof. Cheol-Soo Park](http://bs.snu.ac.kr/)
-  * Thesis: ‘Stochastic Setpoint Temperature Learning for Occupant Behavior-based Control'
+  * Thesis: *Stochastic Setpoint Temperature Learning for Occupant Behavior-based Control*
   * GPA: 3.97/4.3 (major: 4.3/4.3) 
 
-* B.S. in Architecture and Architectural Engineering, Seoul National University	(Mar. 2014 – Feb. 2020)
+* **B.S.** in Architecture and Architectural Engineering, **Seoul National University**, South Korea (2014.3.-2020.2.)
   * GPA: 3.88/4.3 (rank: 6th out of 66 graduated students)
-  * 2-year absence to fulfill mandatory military service (Aug. 2016 – Jul. 2018)
+  * 2-year absence to fulfill mandatory military service (2016.8. – 2018.7.)
 
-* Exchange Student, Peking University (Jul. 2016)
+* **Exchange Student** in Engineering, **Peking University**, China (2016.7.)
   * International Exchange Student (Summer session offered in English)
 
 
@@ -65,3 +65,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
