@@ -7,8 +7,8 @@ author_profile: true
 
 Conference Proceedings
 ======
-* **Choi, Y.**, Shin, H.S., Cho, S., Ko, Y.D. and Park, C.S. (2020), Predictive Uncertainty of Residential Building Energy Model, Proceedings of the 2020 Winter Simulation Conference
-* Cho S., Shin. H.S., **Choi, Y.**, Ko, Y.D. and Park, C.S. (2020), Occupant-adaptive indoor environmental controller using DQN, Proceedings of the 2020 Winter Simulation Conference
+* **Choi, Y.**, Shin, H.S., Cho, S., Ko, Y.D. and Park, C.S. (2020), Predictive Uncertainty of Residential Building Energy Model, Proceedings of the 2020 Winter Simulation Conference [[paper]](https://informs-sim.org/wsc20papers/350.pdf) [[poster]](http://youngsik-choi.github.io/files/WSC_poster.pdf)
+* Cho S., Shin. H.S., **Choi, Y.**, Ko, Y.D. and Park, C.S. (2020), Occupant-adaptive indoor environmental controller using DQN, Proceedings of the 2020 Winter Simulation Conference [[paper]](https://informs-sim.org/wsc20papers/353.pdf)
 
 
 In Korean with English abstract
