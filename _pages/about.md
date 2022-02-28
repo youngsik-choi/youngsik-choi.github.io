@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+About
+======
+
+[Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf)
 
 Education
 ======
