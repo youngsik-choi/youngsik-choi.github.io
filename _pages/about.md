@@ -24,7 +24,7 @@ Education
   * 2-year absence to fulfill mandatory military service (2016.8. – 2018.7.)
 
 * **Exchange Student** in Engineering, **Peking University**, China (2016.7.)
-  * International Exchange Student (Summer session offered in English)
+  * Summer session offered in English
 
 
 A data-driven personal website
