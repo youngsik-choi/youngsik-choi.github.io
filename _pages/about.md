@@ -9,7 +9,7 @@ redirect_from:
 ---
 About
 ======
-&nbsp; &nbsp; &nbsp; &nbsp;  I am a graduate student who is interested in building energy & HVAC research.
+&nbsp; &nbsp; &nbsp; &nbsp;  I am a graduate student who is interested in **Building Energy & HVAC** research.
 
 &nbsp; &nbsp; &nbsp; &nbsp;  [Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf)
 
@@ -36,7 +36,7 @@ Honors & Awards
 ======
 
 * [**Poster Session Award Winner (runner-up)**](http://youngsik-choi.github.io/files/WSC2020_Award.pdf)	(2020.12.)
-  * The 2020 Winter Simulation Conference
+  * [The 2020 Winter Simulation Conference](http://meetings.informs.org/wordpress/wsc2020/)
 
 * **Organization Scholarship** (2020.9.-2022.2.)
   * Full tuition, The Education and Research Foundation of Seoul National University
