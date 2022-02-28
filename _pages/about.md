@@ -13,8 +13,7 @@ About
 
 &nbsp; &nbsp; &nbsp; &nbsp;  [Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf)
 
-\
-\
+
 Education
 ======
 
@@ -30,8 +29,7 @@ Education
 * **Exchange Student** in Engineering, **Peking University**, China (2016.7.)
   * Summer session offered in English
 
-\
-\
+
 Honors & Awards
 ======
 
