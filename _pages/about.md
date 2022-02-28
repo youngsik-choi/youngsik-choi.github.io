@@ -9,9 +9,9 @@ redirect_from:
 ---
 About
 ======
-&nbsp; &nbsp; &nbsp; &nbsp;  A Ph.D. student pursuing **Building Energy & HVAC** research for high performance buildings.
+&nbsp; A Ph.D. student pursuing **Building Energy & HVAC** research for high performance buildings.
 
-&nbsp; &nbsp; &nbsp; &nbsp;  [Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf)
+&nbsp; [Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf)
 
 
 Education
