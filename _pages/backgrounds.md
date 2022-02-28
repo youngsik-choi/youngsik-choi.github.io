@@ -7,8 +7,6 @@ redirect_from:
   - /academicbackgrounds
 ---
 
-{% include base_path %}
-
 Academic Experience
 ======
 * **Teaching Assistance**
