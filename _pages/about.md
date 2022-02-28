@@ -9,7 +9,7 @@ redirect_from:
 ---
 About
 ======
-&nbsp; &nbsp; &nbsp; &nbsp;  I am a graduate student who is interested in **Building Energy & HVAC** research.
+&nbsp; &nbsp; &nbsp; &nbsp;  I am a graduate student pursuing **building energy** related studies for high performance building & community.
 
 &nbsp; &nbsp; &nbsp; &nbsp;  [Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf)
 
