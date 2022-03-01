@@ -9,33 +9,55 @@ redirect_from:
 
 Academic Experience
 ======
-* Fall 2020: Teaching Assistant
+* **Graduate Research Assistant** (Expected, 2022.6.-)
+  * Texas A&M University
+
+* **Teaching Assistant** (2020.9.-2021.2.)
   * Seoul National University
   * Assisted teaching ‘Creative Engineering Design’, an undergraduate course covering following topics: Integration of architecture and Internet of Things (IOT), Basics of Arduino and environmental sensors.
-  
+ 
 Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-* Skill 3
+* **Building Simulation**
+  * Machine learning
+  * Numerical methods (State-space)
+  * Dynamic building simulation tool (EnergyPlus)
+
+* **Programming**
+  * Python
 
 Courses Covered
 ======
+* **Building System Engineering**
+  * Building systems design (Mechanical system design) (2021 @ SNU, Graduate)
+  * Architectural environmental planning & design (2019 @ SNU, Undergraduate)
+  * Electrical & lighiting systems for buildings (2016 @ SNU, Undergraduate)
+  * Thermal energy fundamentals for buildings (2015 @ SNU, Undergraduate)
+  * Fluid systems for buildings (2015 @ SNU, Undergraduate)
 
-Projects
-======
-* **HEMS**
+* **Building Simulation**
+  * Environmental modeling & simulation (Building thermal & energy analysis) (2020 @ SNU, Graduate)
+
+* **Data Science & Machine Learning**
+  * Programming & software platform for data science (2020 @ SNU, Graduate)
+  * Mathematics and programming for machine learning (2020 @ SNU, Undergraduate)
+
+* **Optimization**
+  * Linear and nonlinear optimization (2021 @ SNU, Undergraduate)
+
 
 Other Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
+* **Undergraduate Peer Tutor** (2019.9.-2020.2.)
+  * Seoul National University
+  * Taught a junior from same department about major courses.
+  
+* **Internship** (2018.12.-2019.2.)
+  * Hyundai Engineering and Construction
+  * Worksite manager at an apartment-type residential building construction site.
+  
+* **Mandatory Military Service** (2016.8.-2018.7.)
+  * Republic of Korea Navy
+  * Served as a naval construction engineer (Seabee) and a translator.
+  
