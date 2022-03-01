@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /backgrounds/
+permalink: /backgrounds_test/
 author_profile: true
 ---
 
