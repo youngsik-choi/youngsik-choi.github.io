@@ -14,7 +14,7 @@ Academic Experience
 
 * **Teaching Assistant** (2020.9.-2021.2.)
   * Seoul National University
-  * Assisted teaching ‘Creative Engineering Design’, an undergraduate course covering following topics: Integration of architecture and Internet of Things (IOT), Basics of Arduino and environmental sensors.
+  * Assisted teaching **Creative Engineering Design**, an undergraduate course covering following topics: Integration of architecture and Internet of Things (IOT), Basics of Arduino and environmental sensors.
  
 Technical Skills
 ======
