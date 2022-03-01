@@ -19,9 +19,9 @@ Academic Experience
 Technical Skills
 ======
 * **Building Simulation**
-  * Machine learning
-  * Numerical methods (State-space)
-  * Dynamic building simulation tool (EnergyPlus)
+  * Machine learning approaches
+  * Numerical methods
+  * Dynamic building simulation toolS
 
 * **Programming**
   * Python
