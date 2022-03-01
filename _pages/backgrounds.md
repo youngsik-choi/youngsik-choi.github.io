@@ -3,8 +3,6 @@ layout: archive
 title: ""
 permalink: /backgrounds/
 author_profile: true
-redirect_from:
-  - /academicbackgrounds
 ---
 
 Academic Experience
