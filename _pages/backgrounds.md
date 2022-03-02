@@ -20,7 +20,7 @@ Technical Skills
 ======
 * **Building Simulation**
   * Machine learning approaches (e.g., Artificial neural network, Random forest, Transfer learning)
-  * Numerical methods (state-space equation)
+  * Numerical methods (State-space equation)
   * Dynamic building simulation tools (EnergyPlus)
 
 * **Programming**
