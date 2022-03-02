@@ -11,7 +11,7 @@ Conference Proceedings
 * Cho S., Shin. H.S., **Choi, Y.**, Ko, Y.D. and Park, C.S. (2020), Occupant-adaptive indoor environmental controller using DQN, Proceedings of the 2020 Winter Simulation Conference [[paper]](https://informs-sim.org/wsc20papers/353.pdf)
 
 
-In Korean with English abstract
+In Korean with English Abstract
 -----
 * Ko, Y.D., Shin, H., Cho, S., **Choi, Y.** and Park, C.S. (2021), Identification of occupant behavior patterns from aggregated household energy data using deep learning, Proceeding of Winter Conference of the Korean Institute of Communications and Information Sciences, pp. 120-121 
 * **Choi, Y.**, Yi, D.H., Shin, H., Chu, H.G., Yoo, S. and Park, C.S. (2020), Application of transfer learning to a simulation model for room air temperature, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 40-2, pp. 386-387
