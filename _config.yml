@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Youngsik Choi"
+title                    : "About Y.Choi"
 title_separator          : "-"
 name                     : &name "Youngsik Choi"
 description              : &description "personal description"
