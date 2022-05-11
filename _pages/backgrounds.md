@@ -9,7 +9,7 @@ redirect_from:
 
 Academic Experience
 ======
-* **Graduate Research Assistant** (Expected, 2022.6.-)
+* **Graduate Research Assistant** (2022.5.-)
   * Texas A&M University
 
 * **Teaching Assistant** (2020.9.-2021.2.)
