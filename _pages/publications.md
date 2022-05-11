@@ -13,6 +13,8 @@ Conference Proceedings
 
 In Korean with English Abstract
 -----
+* Cho, S., **Choi, Y.**, Kim, J.H. and Park, C.S. (2022), Integrated control of radiant floor heating system in residential buildings, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 42-1, pp. 310-311 
+* Cho, S., Kim, J.H., **Choi, Y.** and Park, C.S. (2022), Uncertainty analysis of cooling energy in residential building, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 42-1, pp. 308-309
 * Ko, Y.D., Shin, H., Cho, S., **Choi, Y.** and Park, C.S. (2021), Identification of occupant behavior patterns from aggregated household energy data using deep learning, Proceeding of Winter Conference of the Korean Institute of Communications and Information Sciences, pp. 120-121 
 * **Choi, Y.**, Yi, D.H., Shin, H., Chu, H.G., Yoo, S. and Park, C.S. (2020), Application of transfer learning to a simulation model for room air temperature, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 40-2, pp. 386-387
 * **Choi, Y.**, Shin, H., Ko, Y., Cho, S. and Park, C.S. (2020), Predictive uncertainty of energy simulation model using Deep Ensembles, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 40-1, pp. 290-291
