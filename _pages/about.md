@@ -18,9 +18,11 @@ Education
 ======
 
 * **Ph.D. Student** in Mechanical Engineering, **Texas A&M University** (Expected, 2022.6.-)
+  * Field of Study: Building Energy & HVAC Systems 
   * Advisor: [Prof. Zheng O'Neill](https://hvac.engr.tamu.edu/)
 
 * **M.S.** in Architecture and Architectural Engineering, **Seoul National University** (2020.3.-2022.2.)
+  * Field of Study: Building Simulation
   * Advisor: [Prof. Cheol-Soo Park](http://bs.snu.ac.kr/)
   * Thesis: *Stochastic Setpoint Temperature Learning for Occupant Behavior-based Control*
   * GPA: 3.97/4.3
