@@ -17,7 +17,7 @@ About
 Education
 ======
 
-* **Ph.D. Student** in Mechanical Engineering, **Texas A&M University** (Expected, 2022.6.-)
+* **Ph.D. Student** in Mechanical Engineering, **Texas A&M University** (2022.5.-)
   * Field of Study: Building Energy & HVAC Systems 
   * Advisor: [Prof. Zheng O'Neill](https://hvac.engr.tamu.edu/)
 
