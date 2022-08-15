@@ -38,6 +38,9 @@ Education
 Honors & Awards
 ======
 
+* **Emil Buehler Aerodynamic Analo** (2022. 8.)
+  * Fellowship, J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University
+
 * [**Poster Session Award Winner (runner-up)**](http://youngsik-choi.github.io/files/WSC2020_Award.pdf)	(2020.12.)
   * [The 2020 Winter Simulation Conference](http://meetings.informs.org/wordpress/wsc2020/)
 
