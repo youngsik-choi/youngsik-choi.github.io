@@ -5,13 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-Conference Proceedings
-======
-* **Choi, Y.**, Shin, H.S., Cho, S., Ko, Y.D. and Park, C.S. (2020), Predictive Uncertainty of Residential Building Energy Model, Proceedings of the 2020 Winter Simulation Conference [[paper]](https://informs-sim.org/wsc20papers/350.pdf) [[poster]](http://youngsik-choi.github.io/files/WSC_poster.pdf)
-* Cho S., Shin. H.S., **Choi, Y.**, Ko, Y.D. and Park, C.S. (2020), Occupant-adaptive indoor environmental controller using DQN, Proceedings of the 2020 Winter Simulation Conference [[paper]](https://informs-sim.org/wsc20papers/353.pdf)
+Peer-reviewed International Conference Papers
+-----
+* **Choi, Y.**, Shin, H.S., Cho, S., Ko, Y.D. and Park, C.S. (2020), Predictive Uncertainty of Residential Building Energy Model, Proceedings of the 2020 Winter Simulation Conference 
+* Cho S., Shin. H.S., **Choi, Y.**, Ko, Y.D. and Park, C.S. (2020), Occupant-adaptive indoor environmental controller using DQN, Proceedings of the 2020 Winter Simulation Conference 
 
-
-In Korean with English Abstract
+Domestic Conference Papers (in Korean)
 -----
 * Cho, S., **Choi, Y.**, Kim, J.H. and Park, C.S. (2022), Integrated control of radiant floor heating system in residential buildings, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 42-1, pp. 310-311 
 * Cho, S., Kim, J.H., **Choi, Y.** and Park, C.S. (2022), Uncertainty analysis of cooling energy in residential building, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 42-1, pp. 308-309
