@@ -8,28 +8,16 @@ redirect_from:
 ---
 
 Academic Experience
-======
+-----
 * **Graduate Research Assistant** (2022.5.-)
   * Texas A&M University
 
 * **Teaching Assistant** (2020.9.-2021.2.)
   * Seoul National University
   * Assisted teaching **Creative Engineering Design**, an undergraduate course covering following topics: Integration of architecture and Internet of Things (IOT), Basics of Arduino and environmental sensors.
- 
-Technical Skills
-======
-* **Building Simulation**
-  * Machine learning approaches (e.g., Artificial neural network, Random forest, Transfer learning)
-  * Numerical methods (State-space equation)
-  * Dynamic building simulation approach (EnergyPlus)
-
-* **Programming**
-  * Python
-  * Visual Basic
-  * Arduino
 
 Courses Covered
-======
+-----
 * **Building System Engineering**
   * Building systems design (Mechanical system design) (2021 @ SNU, Graduate)
   * Architectural environmental planning & design (2019 @ SNU, Undergraduate)
@@ -49,7 +37,7 @@ Courses Covered
 
 
 Other Experience
-======
+-----
 
 * **Undergraduate Peer Tutor** (2019.9.-2020.2.)
   * Seoul National University
