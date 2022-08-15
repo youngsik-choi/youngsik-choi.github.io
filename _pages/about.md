@@ -42,7 +42,7 @@ Honors & Awards
   * Fellowship, J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University
 
 * [**Poster Session Award Winner (runner-up)**](http://youngsik-choi.github.io/files/WSC2020_Award.pdf)	(2020.12.)
-  * [The 2020 Winter Simulation Conference](http://meetings.informs.org/wordpress/wsc2020/)
+  * The 2020 Winter Simulation Conference
 
 * **Organization Scholarship** (2020.9.-2022.2.)
   * Full tuition, The Education and Research Foundation of Seoul National University
@@ -58,5 +58,5 @@ Honors & Awards
   * Full tuition, Moon-Ju Scholarship Foundation
 
 * **Merit-based Scholarship** (2015.3.-2015.8.)
-  * 40% tuition, Seoul National University
+  * Partial tuition (40%), Seoul National University
 
