@@ -1,10 +1,13 @@
 # main links links
 main:
 
-  - title: "Backgrounds"
+  - title: "Experience"
     url: /backgrounds/
   
-  - title: "Publications"
+  - title: "Courses"
+    url: /Courses/
+  
+  - title: "Publication"
     url: /publications/
 
   #- title: "Talks"
