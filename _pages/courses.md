@@ -5,18 +5,21 @@ permalink: /courses/
 author_profile: true
 ---
 
-Peer-reviewed International Conference Papers
+Courses Covered
 -----
-* **Choi, Y.**, Shin, H.S., Cho, S., Ko, Y.D. and Park, C.S. (2020), Predictive Uncertainty of Residential Building Energy Model, Proceedings of the 2020 Winter Simulation Conference 
-* Cho S., Shin. H.S., **Choi, Y.**, Ko, Y.D. and Park, C.S. (2020), Occupant-adaptive indoor environmental controller using DQN, Proceedings of the 2020 Winter Simulation Conference 
+* **Building System Engineering**
+  * Building systems design (Mechanical system design) (2021 @ SNU, Graduate)
+  * Architectural environmental planning & design (2019 @ SNU, Undergraduate)
+  * Electrical & lighting systems for buildings (2016 @ SNU, Undergraduate)
+  * Thermal energy fundamentals for buildings (2015 @ SNU, Undergraduate)
+  * Fluid systems for buildings (2015 @ SNU, Undergraduate)
 
-Domestic Conference Papers (in Korean)
------
-* Cho, S., **Choi, Y.**, Kim, J.H. and Park, C.S. (2022), Integrated control of radiant floor heating system in residential buildings, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 42-1, pp. 310-311 
-* Cho, S., Kim, J.H., **Choi, Y.** and Park, C.S. (2022), Uncertainty analysis of cooling energy in residential building, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 42-1, pp. 308-309
-* Ko, Y.D., Shin, H., Cho, S., **Choi, Y.** and Park, C.S. (2021), Identification of occupant behavior patterns from aggregated household energy data using deep learning, Proceeding of Winter Conference of the Korean Institute of Communications and Information Sciences, pp. 120-121 
-* **Choi, Y.**, Yi, D.H., Shin, H., Chu, H.G., Yoo, S. and Park, C.S. (2020), Application of transfer learning to a simulation model for room air temperature, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 40-2, pp. 386-387
-* **Choi, Y.**, Shin, H., Ko, Y., Cho, S. and Park, C.S. (2020), Predictive uncertainty of energy simulation model using Deep Ensembles, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 40-1, pp. 290-291
-* Ko, Y.D., Shin, H., Cho, S., **Choi, Y.** and Park, C.S. (2020), Uncertainty in dynamic sensitivity analysis of occupant behavior for cooling energy in residential buildings, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 40-1, pp. 299-300
-* Cho S., Shin. H.S., Ko, Y.D., **Choi, Y.** and Park, C.S. (2020), Static vs. dynamic sensitivity analysis of occupant behavior for energy consumption of cooling season in residential buildings, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 40-1, pp. 301-302 
-* Shin, H., Ko, Y.D., Cho, S., **Choi, Y.** and Park, C.S. (2020), Quantifying the relevance of occupant behavior to building energy use, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 40-1, pp. 288-289 
+* **Building Simulation**
+  * Environmental modeling & simulation (Building thermal & energy analysis) (2020 @ SNU, Graduate)
+
+* **Data Science & Machine Learning**
+  * Programming & software platform for data science (2020 @ SNU, Graduate)
+  * Mathematics and programming for machine learning (2020 @ SNU, Undergraduate)
+
+* **Optimization**
+  * Linear and nonlinear optimization (2021 @ SNU, Undergraduate)
