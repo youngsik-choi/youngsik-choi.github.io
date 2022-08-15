@@ -16,38 +16,29 @@ Academic Experience
   * Seoul National University
   * Assisted teaching **Creative Engineering Design**, an undergraduate course covering following topics: Integration of architecture and Internet of Things (IOT), Basics of Arduino and environmental sensors.
 
-Courses Covered
+Projects
 -----
-* **Building System Engineering**
-  * Building systems design (Mechanical system design) (2021 @ SNU, Graduate)
-  * Architectural environmental planning & design (2019 @ SNU, Undergraduate)
-  * Electrical & lighiting systems for buildings (2016 @ SNU, Undergraduate)
-  * Thermal energy fundamentals for buildings (2015 @ SNU, Undergraduate)
-  * Fluid systems for buildings (2015 @ SNU, Undergraduate)
+* **ASHRAE 1865: Optimizing Supply Air Temperature Control for Dedicated Outdoor Air Systems**	(2022.5.-2024.3.)
+  * Texas A&M University
 
-* **Building Simulation**
-  * Environmental modeling & simulation (Building thermal & energy analysis) (2020 @ SNU, Graduate)
+* **Development of BEMS Algorithms**	(2020.6.-2021.2.)
+  * Seoul National University
 
-* **Data Science & Machine Learning**
-  * Programming & software platform for data science (2020 @ SNU, Graduate)
-  * Mathematics and programming for machine learning (2020 @ SNU, Undergraduate)
-
-* **Optimization**
-  * Linear and nonlinear optimization (2021 @ SNU, Undergraduate)
-
+* **Development of Real-time Diagnosis Technology of Home Energy Usage and Smart & Autonomous Control/Management System** 	(2020.1.-2022.2.)
+  * Seoul National University
 
 Other Experience
 -----
 
-* **Undergraduate Peer Tutor** (2019.9.-2020.2.)
+* **Undergraduate Peer Tutor (Work scholarship)** (2019.9.-2020.2.)
   * Seoul National University
   * Taught a junior from same department about major courses.
   
-* **Internship** (2018.12.-2019.2.)
+* **Worksite Manager (Internship)** (2018.12.-2019.2.)
   * Hyundai Engineering and Construction
   * Worksite manager at an apartment-type residential building construction site.
   
-* **Mandatory Military Service** (2016.8.-2018.7.)
+* **Construction Engineer and Translator** (2016.8.-2018.7.)
   * Republic of Korea Navy
-  * Served as a naval construction engineer (Seabee) and a translator.
+  * Mandatory military service
   
