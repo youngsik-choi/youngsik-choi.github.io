@@ -5,9 +5,9 @@ main:
     url: /backgrounds/
   
   - title: "Courses"
-    url: /Courses/
+    url: /courses/
   
-  - title: "Publication"
+  - title: "Publications"
     url: /publications/
 
   #- title: "Talks"
