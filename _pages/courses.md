@@ -15,7 +15,7 @@ Courses Covered
   * Fluid systems for buildings (2015 @ SNU, Undergraduate)
 
 * **Building Modeling and Simulation**
-  * Energy management for commercial buildings (2022 @ TAMU MEEN 664)
+  * Energy management for commercial buildings (2022 @ TAMU)
   * Environmental modeling & simulation (Building thermal & energy analysis) (2020 @ SNU, Graduate)
   
 * **Data Science & Machine Learning**
