@@ -18,6 +18,9 @@ Academic Experience
 
 Projects
 -----
+* **DOE ARPA-E HESTIA: High-performance Whole Building Design With 3D-printed Carbon–Absorbing Funicular Structures**	(2023.1.-)
+  * Texas A&M University
+  
 * **ASHRAE 1865: Optimizing Supply Air Temperature Control for Dedicated Outdoor Air Systems**	(2022.5.-2024.3.)
   * Texas A&M University
 
