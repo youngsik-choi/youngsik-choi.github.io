@@ -17,7 +17,7 @@ Courses Covered
 * **Building Modeling and Simulation**
   * Energy management for commercial buildings (2022 @ TAMU MEEN 664)
   * Environmental modeling & simulation (Building thermal & energy analysis) (2020 @ SNU, Graduate)
-  * 
+  
 * **Data Science & Machine Learning**
   * Programming & software platform for data science (2020 @ SNU, Graduate)
   * Mathematics and programming for machine learning (2020 @ SNU, Undergraduate)
