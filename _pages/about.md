@@ -37,9 +37,15 @@ Education
 
 Honors & Awards
 ======
+* [**AI for IoT Information (AI3) Competition Phase Winner**](https://www.us-ignite.org/program/challenge-competitions/nist-iot-competition/) (2023. 2.)
+  * Phase 1 winner, $10,000 per team
+  * Team name: Tech and Rescue
 
 * **Emil Buehler Aerodynamic Analo** (2022. 8.)
   * Fellowship, J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University
+
+* **Outstanding Paper Award** (2022. 4.)
+  * (Co-authored) The 2022 Spring Annual Conference of the Architectural Institute of Korea
 
 * [**Poster Session Award Winner (runner-up)**](http://youngsik-choi.github.io/files/WSC2020_Award.pdf)	(2020.12.)
   * The 2020 Winter Simulation Conference
