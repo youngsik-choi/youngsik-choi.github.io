@@ -23,4 +23,5 @@ Courses Covered
   * Mathematics and programming for machine learning (2020 @ SNU, Undergraduate)
 
 * **Optimization**
+  * Multidisciplinary system analysis and design optimization (2023 @ TAMU)
   * Linear and nonlinear optimization (2021 @ SNU, Undergraduate)
