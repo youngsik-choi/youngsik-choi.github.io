@@ -37,7 +37,7 @@ Education
 
 Honors & Awards
 ======
-* [**AI for IoT Information (AI3) Competition Phase Winner**](https://www.us-ignite.org/program/challenge-competitions/nist-iot-competition/) (2023. 2.)
+* [**AI for IoT Information (AI3) Competition Phase Winner**](https://tamids.tamu.edu/2022/08/03/ai-for-iot-information-ai3-competition/) (2023. 2.)
   * Phase 1 winner, $10,000 per team
   * Team name: Tech and Rescue
 
