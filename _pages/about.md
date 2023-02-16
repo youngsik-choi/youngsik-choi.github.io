@@ -9,7 +9,8 @@ redirect_from:
 ---
 About
 ======
-&nbsp; A Ph.D. student pursuing **Building Energy & HVAC** research for high-performance buildings.
+&nbsp; I am a first-year Ph.D. student pursuing **Building Energy & HVAC** research for high-performance buildings.
+His main research interests include **building energy modeling & simulation**, **HVAC system optimal control**, and **building decarbonization**.  
 
 &nbsp; [Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf)
 
