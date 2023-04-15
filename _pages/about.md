@@ -12,7 +12,7 @@ About
 &nbsp; I am a first-year Ph.D. student pursuing **Building Energy & HVAC** research for high-performance buildings.
 My main research interests include **building energy modeling & simulation**, **HVAC system optimal control**, and **building decarbonization**.  
 
-&nbsp; [Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf)
+&nbsp; [Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf) (Last update: Apr. 14, 2023)
 
 
 Education
@@ -39,8 +39,7 @@ Education
 Honors & Awards
 ======
 * [**AI for IoT Information (AI3) Competition Phase Winner**](https://www.us-ignite.org/program/challenge-competitions/nist-iot-competition/) (2023. 2.)
-  * Phase 1 winner, $10,000 per team
-  * Team name: Tech and Rescue
+  * Phase 1 winner, Won $10,000 as a team
 
 * **Emil Buehler Aerodynamic Analo** (2022. 8.)
   * Fellowship, J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University
