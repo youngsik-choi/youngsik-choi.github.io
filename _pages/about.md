@@ -9,7 +9,7 @@ redirect_from:
 ---
 About
 ======
-&nbsp; I am a first-year Ph.D. student pursuing **Building Energy & HVAC** research for high-performance buildings.
+&nbsp; I am a Ph.D. student pursuing **Building Energy & HVAC** research for high-performance buildings.
 My main research interests include **building energy modeling & simulation**, **HVAC system optimal control**, and **building decarbonization**.  
 
 &nbsp; [Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf) (Last update: Apr. 24, 2023)
@@ -26,11 +26,10 @@ Education
   * Field of Study: Building Simulation
   * Advisor: [Prof. Cheol-Soo Park](http://bs.snu.ac.kr/)
   * Thesis: *Stochastic Setpoint Temperature Learning for Occupant Behavior-based Control*
-  * GPA: 3.97/4.3
 
 * **B.S.** in Architecture and Architectural Engineering, **Seoul National University** (2014.3.-2020.2.)
   * 2-year absence to fulfill mandatory military service (2016.8. – 2018.7.)
-  * GPA: 3.88/4.3 (*Cum Laude*, ranked 6th out of 66 graduated students)
+  * Gratuated with honors *Cum Laude*, ranked 6th out of 66 graduated students
 
 * **Exchange Student** in Engineering, **Peking University**, China (2016.7.)
   * Summer session offered in English
