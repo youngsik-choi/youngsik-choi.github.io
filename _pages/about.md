@@ -50,14 +50,14 @@ Honors & Awards
   * The 2020 Winter Simulation Conference
 
 * **Organization Scholarship** (2020.9.-2022.2.)
-  * Full tuition, The Education and Research Foundation of Seoul National University
+  * Full tuition (3 semesters), The Education and Research Foundation of Seoul National University
 
 * **Certificate of Appreciation** (2018.5.)
   * 2018 Key Resolve R.O.K & U.S. Joint Exercise
   * Took charge of interpreting at the R.O.K & U.S. combined task force
 
 * **Eminence Scholarship** (2016.3.-2020.2.)
-  * Full tuition, Seoul National University
+  * Full tuition (4 semesters), Seoul National University
   
 * **Organization Scholarship** (2015.9.-2016.2.)
   * Full tuition, Moon-Ju Scholarship Foundation
