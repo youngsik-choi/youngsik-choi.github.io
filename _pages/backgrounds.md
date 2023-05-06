@@ -24,7 +24,7 @@ Projects
 * **DOE ARPA-E HESTIA: High-performance Whole Building Design With 3D-printed Carbon–Absorbing Funicular Structures**	(2023.1.-)
   * Building Energy and HVAC&R Research Group, Texas A&M University
   
-* **ASHRAE 1865: Optimizing Supply Air Temperature Control for Dedicated Outdoor Air Systems**	(2022.5.-2024.3.)
+* **ASHRAE 1865: Optimizing Supply Air Temperature Control for Dedicated Outdoor Air Systems**	(2022.5.-)
   * Building Energy and HVAC&R Research Group, Texas A&M University
 
 * **Development of BEMS Algorithms**	(2020.6.-2021.2.)
