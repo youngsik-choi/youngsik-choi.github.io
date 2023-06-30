@@ -6,14 +6,14 @@ author_profile: true
 ---
 Journal Papers
 -----
-* **Y. Choi**, X. Lu, Z. O’Neill, F. Feng, T. Yang. (2023), Optimization-informed Rule Extraction for HVAC system: A Case Study of Dedicated Outdoor Air System (DOAS) Control. Submitted to Energy and Buildings.
+* **Choi, Y.**, Lu, X., O'Neill, Z., Feng, F., & Yang, T. (2023). Optimization-informed Rule Extraction for HVAC system: A Case Study of Dedicated Outdoor Air System Control in a Mixed-Humid Climate Zone. Energy and Buildings, 113295. [https://doi.org/10.1016/j.enbuild.2023.113295]
 
 Conference Papers
 -----
-* **Y. Choi**, Z. O’Neill, S. Yang (2023), Potentials of Direct Air Capture (DAC) of CO2 in a Dedicated Outside Air System (DOAS). Extended Abstract submitted to ASHRAE Annual Conference 2023, Tampa, USA. 
-* **Y. Choi**, X. Lu, Z. O’Neill, Z. Pang (2023), Modeling and Simulation of Dedicated Outdoor Air System (DOAS) with a Passive Desiccant Wheel: A Case Study using EnergyPlus. Accepted to ASHRAE Annual Conference 2023, Tampa, USA. 
-* **Y. Choi**, X. Lu, Z. O’Neill, F. Feng (2023), Optimal Supply Air Temperature Control for Dedicated Outdoor Air System Under Varying Climate Zones. Submitted to Building Simulation Conference 2023, Shanghai, China. 
-* **Choi, Y.**, Shin, H.S., Cho, S., Ko, Y.D. and Park, C.S. (2020), Predictive Uncertainty of Residential Building Energy Model, Proceedings of the 2020 Winter Simulation Conference, Dec. 14-18, Orlando, USA (Virtual Conference). 
+* **Choi, Y.**, Lu, X., O’Neill, Z., Feng, F. (2023), Optimal Supply Air Temperature Control for Dedicated Outdoor Air System Under Varying Climate Zones. Accepted to Building Simulation Conference 2023, Shanghai, China. 
+* **Choi, Y.**, O’Neill, Z., Yang, S. (2023), Potentials of Direct Air Capture (DAC) of CO2 in a Dedicated Outside Air System (DOAS). ASHRAE Annual Conference 2023, Jun. 24-28, Tampa, USA. 
+* **Choi, Y.**, Lu, X., O’Neill, Z., Pang, Z. (2023), Modeling and Simulation of Dedicated Outdoor Air System (DOAS) with a Passive Desiccant Wheel: A Case Study using EnergyPlus. ASHRAE Annual Conference 2023, Jun. 24-28, Tampa, USA. 
+* **Choi, Y.**, Shin, H.S., Cho, S., Ko, Y.D. and Park, C.S. (2020), Predictive Uncertainty of Residential Building Energy Model, Proceedings of the 2020 Winter Simulation Conference, Dec. 14-18, Orlando, USA (Virtual Conference) [**Best Poster Award**]. 
 * Cho S., Shin. H.S., **Choi, Y.**, Ko, Y.D. and Park, C.S. (2020), Occupant-adaptive indoor environmental controller using DQN, Proceedings of the 2020 Winter Simulation Conference, Dec. 14-18, Orlando, USA (Virtual Conference). 
 
 Conference Papers (in Korean)
