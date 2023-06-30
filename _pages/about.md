@@ -37,6 +37,10 @@ Education
 
 Honors & Awards
 ======
+
+* **Departmental Graduate Student Travel Award**	(2022. 5.)
+  * For ASHRAE Annual Conference 2023, Tampa, USA.
+
 * **Emil Buehler Aerodynamic Analo** (2022. 8.)
   * Fellowship, J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University
 
