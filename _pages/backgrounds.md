@@ -22,16 +22,29 @@ Academic Experience
 Projects
 -----
 * **DOE ARPA-E HESTIA: High-performance Whole Building Design With 3D-printed Carbon–Absorbing Funicular Structures**	(2023.1.-)
-  * Building Energy and HVAC&R Research Group, Texas A&M University
+  * @ Building Energy and HVAC&R Research Group, Texas A&M University
+    
+    * Developing EnergyPlus model for radiant system for buildings with carbon-absorbing funicular structures.
+    * Exploring direct carbon capturing potential using HVAC system.
+    * Investigating operational carbon emission reduction calculation.
   
 * **ASHRAE 1865: Optimizing Supply Air Temperature Control for Dedicated Outdoor Air Systems**	(2022.5.-)
-  * Building Energy and HVAC&R Research Group, Texas A&M University
+  * @ Building Energy and HVAC&R Research Group, Texas A&M University
+    
+    * Developing EnergyPlus model for DOAS with heat pumps, fan coils, and chilled beams.
+    * Developing optimization-informed rule extraction framework for DOAS supply air temperature control.
 
-* **Development of BEMS Algorithms**	(2020.6.-2021.2.)
-  * Building Simulation Lab, Seoul National University
+* **Development of Building Energy Management System Algorithms**	(2020.6.-2021.2.)
+  * @ Building Simulation Lab, Seoul National University
+    
+    * Supported by Hyundai Development Company (HDC) I-Controls, @ Seoul National University
+    * Developed machine learning-based indoor air temperature and electricity prediction models for an existing office building. 
 
 * **Development of Real-time Diagnosis Technology of Home Energy Usage and Smart & Autonomous Control/Management System** 	(2020.1.-2022.2.)
-  * Building Simulation Lab, Seoul National University
+  * @ Building Simulation Lab, Seoul National University
+    
+    * Supported by Korean Energy Technology Evaluation and Planning (KETEP), @ Seoul National University
+    * Explored machine learning-based indoor air and setpoint temperature prediction models for existing residential buildings.
 
 Other Experience
 -----
