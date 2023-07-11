@@ -38,7 +38,7 @@ Education
 Honors & Awards
 ======
 
-* **Departmental Graduate Student Travel Award**	(2022. 5.)
+* **Departmental Graduate Student Travel Award**	(2023. 5.)
   * For ASHRAE Annual Conference 2023, Tampa, USA.
 
 * **Emil Buehler Aerodynamic Analo** (2022. 8.)
