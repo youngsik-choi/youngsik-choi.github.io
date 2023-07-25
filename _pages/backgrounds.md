@@ -9,6 +9,9 @@ redirect_from:
 
 Academic Experience
 -----
+* **PhD Intern - Building Science and Building Energy Modeling** (2023.7.-2023.8.)
+  * Pacific Northwest National Laboratory
+
 * **Graduate Research Assistant** (2022.5.-)
   * Texas A&M University
 
