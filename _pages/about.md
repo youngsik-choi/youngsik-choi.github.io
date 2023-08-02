@@ -39,16 +39,16 @@ Honors & Awards
 ======
 
 * **Departmental Graduate Student Travel Award**	(2023. 5.)
-  * For ASHRAE Annual Conference 2023, Tampa, USA.
+  * For *ASHRAE Annual Conference 2023*, Tampa, USA.
 
 * **Emil Buehler Aerodynamic Analo** (2022. 8.)
   * Fellowship, J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University
 
 * **Outstanding Paper Award** (2022. 4.)
-  * (Co-authored) The 2022 Spring Annual Conference of the Architectural Institute of Korea
+  * (Co-authored) *The 2022 Spring Annual Conference of the Architectural Institute of Korea*
 
 * [**Poster Session Award Winner (runner-up)**](http://youngsik-choi.github.io/files/WSC2020_Award.pdf)	(2020.12.)
-  * The 2020 Winter Simulation Conference
+  * *The 2020 Winter Simulation Conference*
 
 * **Organization Scholarship** (2020.9.-2022.2.)
   * Full tuition (3 semesters), The Education and Research Foundation of Seoul National University
