@@ -6,23 +6,23 @@ author_profile: true
 ---
 Peer Reviewed Journal Papers
 -----
-* **Choi, Y.**, Lu, X., O'Neill, Z., Feng, F. and Yang, T. (2023). Optimization-informed rule extraction for HVAC system: A case study of dedicated outdoor air system control in a mixed-humid climate zone. Energy and Buildings, 113295. [**link**](https://doi.org/10.1016/j.enbuild.2023.113295)
+* **Choi, Y.**, Lu, X., O'Neill, Z., Feng, F. and Yang, T. (2023). Optimization-informed rule extraction for HVAC system: A case study of dedicated outdoor air system control in a mixed-humid climate zone. *Energy and Buildings*, 113295. [**link**](https://doi.org/10.1016/j.enbuild.2023.113295)
 
 Peer Reviewed International Conference Papers & Extended Abstracts
 -----
-* **Choi, Y.**, Lu, X., O’Neill, Z. and Feng, F. (2023), Optimal Supply Air Temperature Control for Dedicated Outdoor Air System Under Varying Climate Zones. Building Simulation Conference 2023, Shanghai, China. (In Press)
-* **Choi, Y.**, O’Neill, Z. and Yang, S. (2023), Potentials of Direct Air Capture (DAC) of CO2 in a Dedicated Outside Air System (DOAS). ASHRAE Annual Conference 2023, Jun. 24-28, Tampa, USA. 
-* **Choi, Y.**, Lu, X., O’Neill, Z. and Pang, Z. (2023), Modeling and Simulation of Dedicated Outdoor Air System (DOAS) with a Passive Desiccant Wheel: A Case Study using EnergyPlus. ASHRAE Annual Conference 2023, Jun. 24-28, Tampa, USA. 
-* **Choi, Y.**, Shin, H.S., Cho, S., Ko, Y.D. and Park, C.S. (2020), Predictive Uncertainty of Residential Building Energy Model, Proceedings of the 2020 Winter Simulation Conference, Dec. 14-18, Orlando, USA (Virtual Conference). [**Best Poster Award (Runner-up)**](http://youngsik-choi.github.io/files/WSC2020_Award.pdf) 
-* Cho S., Shin. H.S., **Choi, Y.**, Ko, Y.D. and Park, C.S. (2020), Occupant-adaptive indoor environmental controller using DQN, Proceedings of the 2020 Winter Simulation Conference, Dec. 14-18, Orlando, USA (Virtual Conference). 
+* **Choi, Y.**, Lu, X., O’Neill, Z. and Feng, F. (2023), Optimal Supply Air Temperature Control for Dedicated Outdoor Air System Under Varying Climate Zones. *Building Simulation Conference 2023*, Shanghai, China. (In Press)
+* **Choi, Y.**, O’Neill, Z. and Yang, S. (2023), Potentials of Direct Air Capture (DAC) of CO2 in a Dedicated Outside Air System (DOAS). *ASHRAE Annual Conference 2023*, Jun. 24-28, Tampa, USA. 
+* **Choi, Y.**, Lu, X., O’Neill, Z. and Pang, Z. (2023), Modeling and Simulation of Dedicated Outdoor Air System (DOAS) with a Passive Desiccant Wheel: A Case Study using EnergyPlus. *ASHRAE Annual Conference 2023*, Jun. 24-28, Tampa, USA. 
+* **Choi, Y.**, Shin, H.S., Cho, S., Ko, Y.D. and Park, C.S. (2020), Predictive Uncertainty of Residential Building Energy Model, *Proceedings of the 2020 Winter Simulation Conference*, Dec. 14-18, Orlando, USA (Virtual Conference). [**Best Poster Award (Runner-up)**](http://youngsik-choi.github.io/files/WSC2020_Award.pdf) 
+* Cho S., Shin. H.S., **Choi, Y.**, Ko, Y.D. and Park, C.S. (2020), Occupant-adaptive indoor environmental controller using DQN, *Proceedings of the 2020 Winter Simulation Conference*, Dec. 14-18, Orlando, USA (Virtual Conference). 
 
 Domestic Conference Papers (in Korean)
 -----
-* Cho, S., **Choi, Y.**, Kim, J.H. and Park, C.S. (2022), Integrated control of radiant floor heating system in residential buildings, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 42-1, pp. 310-311 
-* Cho, S., Kim, J.H., **Choi, Y.** and Park, C.S. (2022), Uncertainty analysis of cooling energy in residential building, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 42-1, pp. 308-309
-* Ko, Y.D., Shin, H., Cho, S., **Choi, Y.** and Park, C.S. (2021), Identification of occupant behavior patterns from aggregated household energy data using deep learning, Proceeding of Winter Conference of the Korean Institute of Communications and Information Sciences, pp. 120-121 
-* **Choi, Y.**, Yi, D.H., Shin, H., Chu, H.G., Yoo, S. and Park, C.S. (2020), Application of transfer learning to a simulation model for room air temperature, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 40-2, pp. 386-387
-* **Choi, Y.**, Shin, H., Ko, Y., Cho, S. and Park, C.S. (2020), Predictive uncertainty of energy simulation model using Deep Ensembles, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 40-1, pp. 290-291
-* Ko, Y.D., Shin, H., Cho, S., **Choi, Y.** and Park, C.S. (2020), Uncertainty in dynamic sensitivity analysis of occupant behavior for cooling energy in residential buildings, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 40-1, pp. 299-300
-* Cho S., Shin. H.S., Ko, Y.D., **Choi, Y.** and Park, C.S. (2020), Static vs. dynamic sensitivity analysis of occupant behavior for energy consumption of cooling season in residential buildings, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 40-1, pp. 301-302 
-* Shin, H., Ko, Y.D., Cho, S., **Choi, Y.** and Park, C.S. (2020), Quantifying the relevance of occupant behavior to building energy use, Proceeding of Annual Conference of the Architectural Institute of Korea, Vol. 40-1, pp. 288-289 
+* Cho, S., **Choi, Y.**, Kim, J.H. and Park, C.S. (2022), Integrated control of radiant floor heating system in residential buildings, *Proceeding of Annual Conference of the Architectural Institute of Korea*, Vol. 42-1, pp. 310-311 
+* Cho, S., Kim, J.H., **Choi, Y.** and Park, C.S. (2022), Uncertainty analysis of cooling energy in residential building, *Proceeding of Annual Conference of the Architectural Institute of Korea*, Vol. 42-1, pp. 308-309
+* Ko, Y.D., Shin, H., Cho, S., **Choi, Y.** and Park, C.S. (2021), Identification of occupant behavior patterns from aggregated household energy data using deep learning, *Proceeding of Winter Conference of the Korean Institute of Communications and Information Sciences*, pp. 120-121 
+* **Choi, Y.**, Yi, D.H., Shin, H., Chu, H.G., Yoo, S. and Park, C.S. (2020), Application of transfer learning to a simulation model for room air temperature, *Proceeding of Annual Conference of the Architectural Institute of Korea*, Vol. 40-2, pp. 386-387
+* **Choi, Y.**, Shin, H., Ko, Y., Cho, S. and Park, C.S. (2020), Predictive uncertainty of energy simulation model using Deep Ensembles, *Proceeding of Annual Conference of the Architectural Institute of Korea*, Vol. 40-1, pp. 290-291
+* Ko, Y.D., Shin, H., Cho, S., **Choi, Y.** and Park, C.S. (2020), Uncertainty in dynamic sensitivity analysis of occupant behavior for cooling energy in residential buildings, *Proceeding of Annual Conference of the Architectural Institute of Korea*, Vol. 40-1, pp. 299-300
+* Cho S., Shin. H.S., Ko, Y.D., **Choi, Y.** and Park, C.S. (2020), Static vs. dynamic sensitivity analysis of occupant behavior for energy consumption of cooling season in residential buildings, *Proceeding of Annual Conference of the Architectural Institute of Korea*, Vol. 40-1, pp. 301-302 
+* Shin, H., Ko, Y.D., Cho, S., **Choi, Y.** and Park, C.S. (2020), Quantifying the relevance of occupant behavior to building energy use, *Proceeding of Annual Conference of the Architectural Institute of Korea*, Vol. 40-1, pp. 288-289 
