@@ -39,11 +39,11 @@ Honors & Awards
 ======
 
 * **Graduate Student Research and Presentation Travel Award**	(2023. 8.)
-  * Funded by Texas A&M Graduate and Professional Studies
+  * Funded by Graduate and Professional Studies, Texas A&M University
   * For *Building Simulation Conference 2023*, Shanghai, China.
 
 * **Graduate Student Travel Award**	(2023. 5.)
-  * Funded by Texas A&M J. Mike Walker '66 Department of Mechanical Engineering
+  * Funded by J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University
   * For *ASHRAE Annual Conference 2023*, Tampa, USA.
 
 * **Emil Buehler Aerodynamic Analo** (2022. 8.)
