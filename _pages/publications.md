@@ -4,11 +4,11 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-Peer Reviewed Journal Papers
+Peer-reviewed Journal Papers
 -----
 * **Choi, Y.**, Lu, X., O'Neill, Z., Feng, F. and Yang, T. (2023). Optimization-informed rule extraction for HVAC system: A case study of dedicated outdoor air system control in a mixed-humid climate zone. *Energy and Buildings*, 113295. [**link**](https://doi.org/10.1016/j.enbuild.2023.113295)
 
-Peer Reviewed International Conference Papers
+Peer-reviewed International Conference Papers
 -----
 * **Choi, Y.**, Lu, X., O’Neill, Z. and Feng, F. (2023), Optimal Supply Air Temperature Control for Dedicated Outdoor Air System Under Varying Climate Zones. *Building Simulation Conference 2023*, Shanghai, China. (In Press)
 * **Choi, Y.**, O’Neill, Z. and Yang, S. (2023), Potentials of Direct Air Capture (DAC) of CO2 in a Dedicated Outside Air System (DOAS). *ASHRAE Annual Conference 2023*, Jun. 24-28, Tampa, USA. 
