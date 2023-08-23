@@ -46,7 +46,7 @@ Honors & Awards
   * Funded by J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University
   * For *ASHRAE Annual Conference 2023*, Tampa, USA.
 
-* **Emil Buehler Aerodynamic Analo** (2022. 8.)
+* **Emil Buehler Aerodynamic Analog** (2022. 8.)
   * Fellowship, J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University
 
 * **Outstanding Paper Award** (2022. 4.)
