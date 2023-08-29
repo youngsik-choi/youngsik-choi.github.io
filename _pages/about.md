@@ -37,14 +37,14 @@ Education
 
 Honors & Awards
 ======
-
+* **Graduate Student Travel Award**	(2023. 8.)
+  * Funded by J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University
+    
 * **Graduate Student Research and Presentation Travel Award**	(2023. 8.)
   * Funded by Graduate and Professional Studies, Texas A&M University
-  * For *Building Simulation Conference 2023*, Shanghai, China.
 
 * **Graduate Student Travel Award**	(2023. 5.)
   * Funded by J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University
-  * For *ASHRAE Annual Conference 2023*, Tampa, USA.
 
 * **Emil Buehler Aerodynamic Analog** (2022. 8.)
   * Fellowship, J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University
