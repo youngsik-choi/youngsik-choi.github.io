@@ -9,16 +9,16 @@ redirect_from:
 ---
 About
 ======
-&nbsp; I am a Ph.D. student pursuing **Building Energy & HVAC** research for high-performance buildings.
+&nbsp; I am a Ph.D. Candidate pursuing **Building Energy & HVAC** research for high-performance buildings.
 My main research interests include **building energy modeling & simulation**, **HVAC system optimal control**, and **building decarbonization**.  
 
-&nbsp; [Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf) (Last update: Jul. 25, 2023)
+&nbsp; [Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf) (Last update: Aug. 23, 2023)
 
 
 Education
 ======
 
-* **Ph.D. Student** in Mechanical Engineering, **Texas A&M University** (2022.5.-)
+* **Ph.D. Candidate** in Mechanical Engineering, **Texas A&M University** (2022.5.-)
   * Field of Study: Building Energy & HVAC Systems 
   * Advisor: [Prof. Zheng O'Neill](https://hvac.engr.tamu.edu/)
 
