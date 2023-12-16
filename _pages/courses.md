@@ -18,7 +18,7 @@ Courses Covered
   * Electrical & lighting theory in buildings (2015 @ SNU)
 
 * **Building Modeling & Simulation**
-  * Application of Energy Management (2023 @ TAMU)
+  * Application of energy management (2023 @ TAMU)
   * Energy management for commercial buildings (2022 @ TAMU)
   * Environmental modeling & simulation (Building thermal & energy analysis) (2020 @ SNU)
   * Advanced building environmental technology (Thermal environmental design) (2020 @ SNU)
