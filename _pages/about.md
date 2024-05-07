@@ -35,7 +35,7 @@ Education
   * Gratuated with honors *Cum Laude*, ranked 6th out of 66 graduated students
 
 * **Exchange Student** (2016.7.)
-  * Engineering, **Peking University**, China 
+  * Engineering, **Peking University**
   * Summer session offered in English
 
 Honors & Awards
