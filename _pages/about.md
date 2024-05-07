@@ -9,7 +9,7 @@ redirect_from:
 ---
 About
 ======
-&nbsp; I am a Ph.D. Candidate pursuing **Building Energy & HVAC** research for high-performance buildings.
+&nbsp; I am a Ph.D. Candidate specializing in **Building Energy & HVAC** research for high-performance buildings.
 My main research interests include **building energy modeling & simulation**, **HVAC system optimal control**, and **building decarbonization**.  
 
 &nbsp; [Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf) (Last update: May 6th, 2024)
@@ -18,16 +18,19 @@ My main research interests include **building energy modeling & simulation**, **
 Education
 ======
 
-* **Ph.D. Candidate** in Mechanical Engineering, **Texas A&M University** (2022.5.-)
+* **Ph.D. Candidate**
+  * Mechanical Engineering, **Texas A&M University** (2022.5.-)
   * Field of Study: Building Energy & HVAC Systems 
   * Advisor: [Prof. Zheng O'Neill](https://hvac.engr.tamu.edu/)
 
-* **M.S.** in Architecture and Architectural Engineering, **Seoul National University** (2020.3.-2022.2.)
+* **M.S.**
+  * Architecture and Architectural Engineering, **Seoul National University** (2020.3.-2022.2.)
   * Field of Study: Building Simulation
   * Advisor: [Prof. Cheol-Soo Park](http://bs.snu.ac.kr/)
   * Thesis: *Stochastic Setpoint Temperature Learning for Occupant Behavior-based Control*
 
-* **B.S.** in Architecture and Architectural Engineering, **Seoul National University** (2014.3.-2020.2.)
+* **B.S.**
+  * Architecture and Architectural Engineering, **Seoul National University** (2014.3.-2020.2.)
   * 2-year absence to fulfill mandatory military service (2016.8. – 2018.7.)
   * Gratuated with honors *Cum Laude*, ranked 6th out of 66 graduated students
 
