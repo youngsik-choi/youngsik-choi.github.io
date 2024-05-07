@@ -37,6 +37,9 @@ Education
 
 Honors & Awards
 ======
+* **2024-2025 ASHRAE Graduate Grant-In-Aid** (2024. 5.)
+  * Funded by American Society of Heating, Refrigerating and Air-Conditioning Engineers   
+
 * **Graduate Student Travel Award**	(2023. 8.)
   * Funded by J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University for the *2023 IBPSA Building Simulation Conference*
     
