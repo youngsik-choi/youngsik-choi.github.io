@@ -40,7 +40,7 @@ Engineering, **Peking University**
 
 Honors & Awards
 ======
-* **2024-2025 ASHRAE Graduate Grant-In-Aid** (2024. 5.)
+* **ASHRAE Graduate Grant-In-Aid** (2024. 5.)
   * Funded by American Society of Heating, Refrigerating and Air-Conditioning Engineers   
 
 * **Graduate Student Travel Award**	(2023. 8.)
