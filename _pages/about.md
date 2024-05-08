@@ -20,23 +20,23 @@ Education
 
 * **Ph.D. Candidate** (2022.5.-)
   * Mechanical Engineering, **Texas A&M University**
-  * Field of Study: Building Energy & HVAC Systems 
-  * Advisor: [Prof. Zheng O'Neill](https://hvac.engr.tamu.edu/)
+    * Field of Study: Building Energy & HVAC Systems 
+    * Advisor: [Prof. Zheng O'Neill](https://hvac.engr.tamu.edu/)
 
 * **M.S.** (2020.3.-2022.2.)
   * Architecture and Architectural Engineering, **Seoul National University**
-  * Field of Study: Building Simulation
-  * Advisor: [Prof. Cheol-Soo Park](http://bs.snu.ac.kr/)
-  * Thesis: *Stochastic Setpoint Temperature Learning for Occupant Behavior-based Control*
+    * Field of Study: Building Simulation
+    * Advisor: [Prof. Cheol-Soo Park](http://bs.snu.ac.kr/)
+    * Thesis: *Stochastic Setpoint Temperature Learning for Occupant Behavior-based Control*
 
 * **B.S.** (2014.3.-2020.2.)
   * Architecture and Architectural Engineering, **Seoul National University**
-  * 2-year absence to fulfill mandatory military service (2016.8. – 2018.7.)
-  * Gratuated with honors *Cum Laude*, ranked 6th out of 66 graduated students
+    * 2-year absence to fulfill mandatory military service (2016.8. – 2018.7.)
+    * Gratuated with honors *Cum Laude*, ranked 6th out of 66 graduated students
 
 * **Exchange Student** (2016.7.)
-Engineering, **Peking University**
-  * Summer session offered in English
+  * Engineering, **Peking University**
+    * Summer session offered in English
 
 Honors & Awards
 ======
