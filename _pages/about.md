@@ -40,7 +40,7 @@ Education
 
 Honors & Awards
 ======
-* **ASHRAE Graduate Grant-In-Aid** (2024. 5.)
+* [**ASHRAE Graduate Grant-In-Aid**](https://www.ashrae.org/communities/student-zone/scholarships-and-grants/graduate-student-grant-in-aid-award-program) (2024. 5.)
   * Funded by American Society of Heating, Refrigerating and Air-Conditioning Engineers   
 
 * **Graduate Student Travel Award**	(2023. 8.)
