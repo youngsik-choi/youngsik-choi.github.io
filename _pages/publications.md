@@ -13,12 +13,12 @@ Peer-reviewed International Conference Papers
 -----
 
 * **Choi, Y.**, Lu, X., Feng, F., and O’Neill, Z., 2024, Large-scale Energy Performance Analysis for Optimal Control for Dedicated Outdoor Air System, *The 1st International Workshop on Building and Simulation (BAS 2024)*, Syracuse, NY, USA, May 13-14, 2024
-* **Choi, Y.**, Lu, X., Feng, F., and O’Neill, Z. (2024), Energy Saving Potential Analysis for Primary Schools with Optimal Dedicated Outdoor Air System Control in Different Climate Zones. *2024 ASHRAE Winter Conference*, Jan. 20-24, Chicago, USA.
+* **Choi, Y.**, Lu, X., Feng, F., and O’Neill, Z. (2024), Energy Saving Potential Analysis for Primary Schools with Optimal Dedicated Outdoor Air System Control in Different Climate Zones. *2024 ASHRAE Winter Conference*, Jan. 20-24, Chicago, IL, USA.
 * **Choi, Y.**, Lu, X., O’Neill, Z. and Feng, F. (2023), Optimal Supply Air Temperature Control for Dedicated Outdoor Air System Under Varying Climate Zones. *Building Simulation Conference 2023*, Shanghai, China. [**Paper**](https://doi.org/10.26868/25222708.2023.1280)
-* **Choi, Y.**, O’Neill, Z. and Yang, S. (2023), Potentials of Direct Air Capture (DAC) of CO2 in a Dedicated Outside Air System (DOAS). *ASHRAE Annual Conference 2023*, Jun. 24-28, Tampa, USA. 
-* **Choi, Y.**, Lu, X., O’Neill, Z. and Pang, Z. (2023), Modeling and Simulation of Dedicated Outdoor Air System (DOAS) with a Passive Desiccant Wheel: A Case Study using EnergyPlus. *ASHRAE Annual Conference 2023*, Jun. 24-28, Tampa, USA. 
-* **Choi, Y.**, Shin, H.S., Cho, S., Ko, Y.D. and Park, C.S. (2020), Predictive Uncertainty of Residential Building Energy Model, *Proceedings of the 2020 Winter Simulation Conference*, Dec. 14-18, Orlando, USA (Virtual Conference). [**Best Poster Award (Runner-up)**](http://youngsik-choi.github.io/files/WSC2020_Award.pdf) 
-* Cho S., Shin. H.S., **Choi, Y.**, Ko, Y.D. and Park, C.S. (2020), Occupant-adaptive indoor environmental controller using DQN, *Proceedings of the 2020 Winter Simulation Conference*, Dec. 14-18, Orlando, USA (Virtual Conference). 
+* **Choi, Y.**, O’Neill, Z. and Yang, S. (2023), Potentials of Direct Air Capture (DAC) of CO2 in a Dedicated Outside Air System (DOAS). *ASHRAE Annual Conference 2023*, Jun. 24-28, Tampa, FL, USA. 
+* **Choi, Y.**, Lu, X., O’Neill, Z. and Pang, Z. (2023), Modeling and Simulation of Dedicated Outdoor Air System (DOAS) with a Passive Desiccant Wheel: A Case Study using EnergyPlus. *ASHRAE Annual Conference 2023*, Jun. 24-28, Tampa, FL, USA. 
+* **Choi, Y.**, Shin, H.S., Cho, S., Ko, Y.D. and Park, C.S. (2020), Predictive Uncertainty of Residential Building Energy Model, *Proceedings of the 2020 Winter Simulation Conference*, Dec. 14-18, Orlando, FL, USA (Virtual Conference). [**Best Poster Award (Runner-up)**](http://youngsik-choi.github.io/files/WSC2020_Award.pdf) 
+* Cho S., Shin. H.S., **Choi, Y.**, Ko, Y.D. and Park, C.S. (2020), Occupant-adaptive indoor environmental controller using DQN, *Proceedings of the 2020 Winter Simulation Conference*, Dec. 14-18, Orlando, FL, USA (Virtual Conference). 
 
 Domestic Conference Papers (in Korean)
 -----
