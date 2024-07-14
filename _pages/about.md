@@ -40,6 +40,9 @@ Education
 
 Honors & Awards
 ======
+* **Brenda & Jerry Gray ’62 Fellowship** (2024. 8.)
+  * Fellowship, J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University
+   
 * [**ASHRAE Graduate Grant-In-Aid**](https://www.ashrae.org/communities/student-zone/scholarships-and-grants/graduate-student-grant-in-aid-award-program) (2024. 5.)
   * Funded by American Society of Heating, Refrigerating and Air-Conditioning Engineers   
 
