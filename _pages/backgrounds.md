@@ -36,6 +36,11 @@ Projects
     
     * Developing EnergyPlus model for DOAS with heat pumps, fan coils, and chilled beams.
     * Developing optimization-informed rule extraction framework for DOAS supply air temperature control.
+  
+* **Construction Weight Analysis**	(2022.7.- 2022.8.)
+  * @  Pacific Northwest National Laboratory (PNNL)
+    
+    * Conducted a comprehensive literature review on construction weights and bottom-up building energy modeling.
 
 * **Development of Building Energy Management System Algorithms**	(2020.6.-2021.2.)
   * @ Building Simulation Lab, Seoul National University
