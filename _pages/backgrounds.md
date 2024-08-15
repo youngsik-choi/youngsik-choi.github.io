@@ -22,8 +22,15 @@ Academic Experience
 * **Graduate Research Assistant** (2020.3.-2022.2.)
   * Seoul National University
   
-Projects
+Ongoing Work
 -----
+* **Smart Meter Data Analysis**	(2024.7.-)
+  * @ Building Energy and HVAC&R Research Group, Texas A&M University
+    
+    * Exploring smart meter electricity data for 1,931,349 residential buildings in Harris County, Houston.
+    * Investigating the relationship between electricity data and demographic/building characteristic data.
+    * Quantifying the performance in terms of energy flexibility and resilience KPIs.
+
 * **DOE ARPA-E HESTIA: High-performance Whole Building Design With 3D-printed Carbon–Absorbing Funicular Structures**	(2023.1.-)
   * @ Building Energy and HVAC&R Research Group, Texas A&M University
     
@@ -37,6 +44,9 @@ Projects
     * Developing EnergyPlus model for DOAS with heat pumps, fan coils, and chilled beams.
     * Developing optimization-informed rule extraction framework for DOAS supply air temperature control.
   
+
+Completed Work
+-----
 * **Construction Weight Analysis**	(2022.7.- 2022.8.)
   * @  Pacific Northwest National Laboratory (PNNL)
     
