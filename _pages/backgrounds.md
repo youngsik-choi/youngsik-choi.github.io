@@ -24,7 +24,7 @@ Academic Experience
   
 Ongoing Work
 -----
-* **Smart Meter Data Analysis**	(2024.7.-)
+* **Smart Meter Data Analysis**	(2024.6.-)
   * @ Building Energy and HVAC&R Research Group, Texas A&M University
     
     * Exploring smart meter electricity data for 1,931,349 residential buildings in Harris County, Houston.
