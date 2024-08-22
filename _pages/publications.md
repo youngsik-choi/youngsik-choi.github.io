@@ -13,7 +13,6 @@ Peer-reviewed International Conference Papers/Presentations
 -----
 
 * **Choi, Y.** and O’Neill, Z., 2024, Model predictive control of radiant heating system under varying thermal mass scenarios in mixed-humid climate zone, *2024 Texas A&M Conference on Energy*, College Station, TX, USA, Sep 11-13, 2024 **(Accepted)**
-* 
 * **Choi, Y.**, Lu, X., Feng, F., and O’Neill, Z., 2024, Large-scale Energy Performance Analysis for Optimal Control for Dedicated Outdoor Air System, *The 1st International Workshop on Building and Simulation (BAS 2024)*, Syracuse, NY, USA, May 13-14, 2024 **(Poster presentation only)**
 * **Choi, Y.**, Lu, X., Feng, F., and O’Neill, Z. (2024), Energy Saving Potential Analysis for Primary Schools with Optimal Dedicated Outdoor Air System Control in Different Climate Zones. *2024 ASHRAE Winter Conference*, Jan. 20-24, Chicago, IL, USA.
 * **Choi, Y.**, Lu, X., O’Neill, Z. and Feng, F. (2023), Optimal Supply Air Temperature Control for Dedicated Outdoor Air System Under Varying Climate Zones. *Building Simulation Conference 2023*, Shanghai, China. [**Paper**](https://doi.org/10.26868/25222708.2023.1280)
