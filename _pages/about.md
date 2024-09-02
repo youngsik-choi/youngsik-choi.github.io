@@ -41,10 +41,12 @@ Education
 Honors & Awards
 ======
 * **Brenda & Jerry Gray ’62 Fellowship** (2024. 8.)
+  * Awarded the 2024 Continuing Student Fellowship based on proven academic and research performance and demonstrated leadership.
   * Fellowship, J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University
    
 * [**ASHRAE Graduate Grant-In-Aid**](https://www.ashrae.org/communities/student-zone/scholarships-and-grants/graduate-student-grant-in-aid-award-program) (2024. 5.)
-  * Funded by American Society of Heating, Refrigerating and Air-Conditioning Engineers   
+  * Selected and awarded as one of 20 graduate students specializing in ASHRAE-related technologies.
+  * Funded by American Society of Heating, Refrigerating and Air-Conditioning Engineers
 
 * **Graduate Student Travel Award**	(2023. 8.)
   * Funded by J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University for the *2023 IBPSA Building Simulation Conference*
@@ -56,6 +58,7 @@ Honors & Awards
   * Funded by J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University for the *2023 ASHRAE Annual Conference*
 
 * **Emil Buehler Aerodynamic Analog Fellowship** (2022. 8.)
+  * Awarded the 2022 Departmental Student Fellowship upon acceptance into the graduate program.
   * Fellowship, J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University
 
 * **Outstanding Paper Award** (2022. 4.)
