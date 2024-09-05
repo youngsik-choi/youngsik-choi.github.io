@@ -67,6 +67,10 @@ Completed Work
 Other Experience
 -----
 
+* **Undergraduate Mentor** (2023.10.-2024.2.)
+  * Texas A&M University
+  * Provided mentorship to an undergraduate team in the EnergyPlus modeling.
+  
 * **Undergraduate Peer Tutor (Work scholarship)** (2019.9.-2020.2.)
   * Seoul National University
   * Taught a junior from same department about major courses.
