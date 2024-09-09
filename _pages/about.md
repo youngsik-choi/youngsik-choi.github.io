@@ -12,7 +12,7 @@ About
 &nbsp; I am a Ph.D. Student specializing in **Building Energy & HVAC** research for high-performance buildings.
 My main research interests include **building energy modeling & simulation**, **HVAC system optimal control**, and **building decarbonization**.  
 
-&nbsp; [Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf) (Last update: May 6th, 2024)
+&nbsp; [Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf) (Last update: Sep. 8th, 2024)
 
 
 Education
