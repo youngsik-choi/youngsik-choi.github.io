@@ -6,7 +6,7 @@ author_profile: true
 ---
 Peer-reviewed Journal Papers
 -----
-* **Choi, Y.**, Lu, X., Feng, F. and O'Neill, Z. (2024). Large-scale optimization and energy performance analysis for dedicated outdoor air system: Simulation results from ASHRAE RP-1865. Submitted to *Science and Technology for the Built Environment*. **(In Press)**
+* **Choi, Y.**, Lu, X., Feng, F. and O'Neill, Z. (2024). Large-scale optimization and energy performance analysis for dedicated outdoor air system: Simulation results from ASHRAE RP-1865. Submitted to *Science and Technology for the Built Environment*. [**Paper**](https://doi.org/10.1080/23744731.2024.2394358)
 * **Choi, Y.**, Lu, X., O'Neill, Z., Feng, F. and Yang, T. (2023). Optimization-informed rule extraction for HVAC system: A case study of dedicated outdoor air system control in a mixed-humid climate zone. *Energy and Buildings*, 113295. [**Paper**](https://doi.org/10.1016/j.enbuild.2023.113295)
 
 Peer-reviewed International Conference Papers/Presentations
