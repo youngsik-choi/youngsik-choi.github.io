@@ -57,7 +57,7 @@ Honors & Awards
 * **Graduate Student Travel Award**	(2023. 5.)
   * Funded by J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University for the *2023 ASHRAE Annual Conference*
 
-* [**An AI for IOT Information (AI3) Prize Competition**](https://www.us-ignite.org/program/startup-support/nist-iot-competition/)(2023. 2.)
+* [**An AI for IOT Information (AI3) Prize Competition**](https://www.us-ignite.org/program/startup-support/nist-iot-competition/) (2023. 2.)
   * Phase 1 winner, Won $10,000 as a team (the only student team)
 
 
