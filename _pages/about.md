@@ -32,7 +32,7 @@ Education
 * **B.S.** (2014.3.-2020.2.)
   * Architecture and Architectural Engineering, **Seoul National University**
     * 2-year absence to fulfill mandatory military service (2016.8. – 2018.7.)
-    * Gratuated with honors *Cum Laude*, ranked 6th out of 66 graduated students
+    * Graduated with honors *Cum Laude*, ranked 6th out of 66 graduated students
 
 * **Exchange Student** (2016.7.)
   * Engineering, **Peking University**
