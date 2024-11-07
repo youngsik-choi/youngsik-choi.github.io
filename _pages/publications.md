@@ -9,7 +9,7 @@ Peer-reviewed Journal Papers
 * **Choi, Y.**, Lu, X., Feng, F. and O'Neill, Z. (2024). Large-scale energy cost optimization and performance analysis for dedicated outdoor air system: simulation results from ASHRAE RP-1865. *Science and Technology for the Built Environment*, 1–19. [**Paper**](https://doi.org/10.1080/23744731.2024.2394358)
 * **Choi, Y.**, Lu, X., O'Neill, Z., Feng, F. and Yang, T. (2023). Optimization-informed rule extraction for HVAC system: A case study of dedicated outdoor air system control in a mixed-humid climate zone. *Energy and Buildings*, 113295. [**Paper**](https://doi.org/10.1016/j.enbuild.2023.113295)
 
-Peer-reviewed International Conference Papers/Presentations
+Conference Papers/Presentations in English
 -----
 
 * **Choi, Y.** and O’Neill, Z., 2024, Model predictive control of radiant heating system under varying thermal mass scenarios in mixed-humid climate zone, *2024 Texas A&M Conference on Energy*, College Station, TX, USA, Sep 11-13, 2024 **(Presentation only)**
@@ -21,7 +21,7 @@ Peer-reviewed International Conference Papers/Presentations
 * **Choi, Y.**, Shin, H.S., Cho, S., Ko, Y.D. and Park, C.S. (2020), Predictive Uncertainty of Residential Building Energy Model, *Proceedings of the 2020 Winter Simulation Conference*, Dec. 14-18, Orlando, FL, USA (Virtual Conference). [**Best Poster Award (Runner-up)**](http://youngsik-choi.github.io/files/WSC2020_Award.pdf) 
 * Cho S., Shin. H.S., **Choi, Y.**, Ko, Y.D. and Park, C.S. (2020), Occupant-adaptive indoor environmental controller using DQN, *Proceedings of the 2020 Winter Simulation Conference*, Dec. 14-18, Orlando, FL, USA (Virtual Conference). 
 
-Domestic Conference Papers (in Korean)
+Conference Papers/Presentations in Korean
 -----
 * Cho, S., **Choi, Y.**, Kim, J.H. and Park, C.S. (2022), Integrated control of radiant floor heating system in residential buildings, *Proceeding of Annual Conference of the Architectural Institute of Korea*, Vol. 42-1, pp. 310-311 
 * Cho, S., Kim, J.H., **Choi, Y.** and Park, C.S. (2022), Uncertainty analysis of cooling energy in residential building, *Proceeding of Annual Conference of the Architectural Institute of Korea*, Vol. 42-1, pp. 308-309
