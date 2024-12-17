@@ -28,8 +28,7 @@ Ongoing Work
   * @ Building Energy and HVAC&R Research Group, Texas A&M University
     
     * Exploring smart meter electricity data for 1,931,349 residential buildings in Harris County, Texas.
-    * Investigating the relationship between electricity data and demographic/building characteristic data.
-    * Quantifying the performance in terms of energy flexibility and resilience KPIs.
+    * Investigating building energy flexibility and resilience.
 
 * **DOE ARPA-E HESTIA: High-performance Whole Building Design With 3D-printed Carbon–Absorbing Funicular Structures**	(2023.1.-)
   * @ Building Energy and HVAC&R Research Group, Texas A&M University
