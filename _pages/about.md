@@ -9,10 +9,10 @@ redirect_from:
 ---
 About
 ======
-&nbsp; I am a Ph.D. Student specializing in **Building Energy & HVAC** research for high-performance buildings.
+I am a Ph.D. Student specializing in **Building Energy & HVAC** research for high-performance buildings.
 My main research interests include **building energy modeling & simulation**, **HVAC system optimal control**, and **building decarbonization**.  
 
-&nbsp; [Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf) (Last update: Dec. 2024)
+[Curriculum Vitae](http://youngsik-choi.github.io/files/CV_ChoiY.pdf) (Last update: Feb. 2025)
 
 
 Education
@@ -59,7 +59,6 @@ Honors & Awards
 
 * [**An AI for IOT Information (AI3) Prize Competition**](https://www.us-ignite.org/program/startup-support/nist-iot-competition/) (2023. 2.)
   * Phase 1 winner, Won $10,000 as a team (the only student team)
-
 
 * **Emil Buehler Aerodynamic Analog Fellowship** (2022. 8.)
   * Awarded the 2022 Departmental Student Fellowship upon acceptance into the graduate program.
