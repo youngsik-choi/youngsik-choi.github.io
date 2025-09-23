@@ -10,7 +10,7 @@ redirect_from:
 Research Experience
 -----
 * **Graduate Research Assistant**	(May 2022 – Present)<br />
-[**Building Energy and HVAC&R Research Group**](hvac.engr.tamu.edu), Texas A&M University<br />
+[**Building Energy and HVAC&R Research Group**](https://hvac.engr.tamu.edu), Texas A&M University<br />
 Advisor: Dr. Zheng O’Neill	
   * <ins>Smart Meter Data Analysis</ins>	(Jun. 2024 – Present)
      -	Assisted in analyzing **real-world smart meter electricity data** from over 1.93 million residential buildings in Harris County, Texas, with a focus on demand flexibility and building energy resilience. [**Paper**](https://doi.org/10.1016/j.scs.2025.106623)
@@ -46,7 +46,7 @@ Mentors: Drs. Yan Chen and Xuechen (Jerry) Lei
   * Conducted a literature review on construction weights and bottom-up building energy modeling methodologies as part of the **Construction Weight Analysis** project.
  
 * **Graduate Research Assistant**	(May 2022 – Present)<br />
-[**Building Simulation Lab**](bs.snu.ac.kr), Seoul National University<br />
+[**Building Simulation Lab**](https://bs.snu.ac.kr), Seoul National University<br />
 Advisor: Dr. Cheol-Soo Park	
   * <ins>Development of Real-time Diagnosis Technology of Home Energy Usage and Smart & Autonomous Control/Management System</ins>
   Funded by Korean Energy Technology Evaluation and Planning (KETEP)	Jan. 2020 – Feb. 2022 
