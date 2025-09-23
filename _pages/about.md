@@ -20,7 +20,7 @@ Education
 
 * **Ph.D. Candidate** (2022.5.-)
   * Mechanical Engineering, **Texas A&M University**
-    * Field of Study: Building Energy & HVAC Systems 
+    * Field of Study: Building Energy & HVAC Systems
     * Advisor: [Prof. Zheng O'Neill](https://hvac.engr.tamu.edu/)
 
 * **M.S.** (2020.3.-2022.2.)
@@ -38,8 +38,23 @@ Education
   * Engineering, **Peking University**
     * Summer session offered in English
 
+Field of Interest
+======
+* Building energy efficiency, resilience, and decarbonization
+* Building energy modeling and simulation for energy performance analysis
+* Smart and connected communities and cities
+* Intelligent HVAC control strategies for improved energy efficiency and occupant comfort
+* Application of data-driven methods, including machine learning, to optimize building design and control
+
 Honors & Awards
 ======
+* **Melbern G. Glasscock '59 Endowed Graduate Fellowship in Mechanical Engineering** (2025. 8.)
+  * Awarded the 2025 Continuing Student Fellowship based on proven academic and research performance and demonstrated leadership.
+  * Fellowship, J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University
+
+* **Graduate Student Travel Award**	(2025. 6.)
+  * Funded by J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University for the *2025 ASHRAE Annual Conference*
+  * 
 * **Brenda & Jerry Gray ’62 Fellowship** (2024. 8.)
   * Awarded the 2024 Continuing Student Fellowship based on proven academic and research performance and demonstrated leadership.
   * Fellowship, J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University
