@@ -54,7 +54,7 @@ Honors & Awards
 
 * **Graduate Student Travel Award**	(2025. 6.)
   * Funded by J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University for the *2025 ASHRAE Annual Conference*
-  * 
+    
 * **Brenda & Jerry Gray ’62 Fellowship** (2024. 8.)
   * Awarded the 2024 Continuing Student Fellowship based on proven academic and research performance and demonstrated leadership.
   * Fellowship, J. Mike Walker '66 Department of Mechanical Engineering, Texas A&M University
