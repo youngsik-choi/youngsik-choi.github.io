@@ -12,24 +12,24 @@ Research Experience
 * **Graduate Research Assistant**	(May 2022 – Present)<br />
 Building Energy and HVAC&R Research Group, Texas A&M University<br />
 Advisor: Dr. Zheng O’Neill	
-  * Smart Meter Data Analysis	Jun. 2024 – Present
-     -	Assisted in analyzing real-world smart meter electricity data from over 1.93 million residential buildings in Harris County, Texas, with a focus on demand flexibility and building energy resilience. [J1]
-     -	Investigating methods for developing representative simulation models using NREL’s ResStock to replicate smart meter data and enable resilience studies, including scenarios involving photovoltaic (PV) systems and thermal energy storage.
-•	High-performance Whole Building Design 3D-printed Carbon–Absorbing Funicular Structures
-Funded by ARPA-E HESTIA Program: Lead Graduate Researcher	Jan. 2023 – Present
--	Developed EnergyPlus models for radiant systems coupled with ground-source heat pumps, modeled using GLHEPro, in buildings with carbon-absorbing funicular structures.
--	Demonstrated the effectiveness of mixed-mode ventilation by integrating natural ventilation with a dedicated outdoor air system.
--	Conducted long-term analyses of operational energy use and carbon emissions using future weather files (fTMY) and carbon emission factors from the NREL Cambium dataset.
--	Participated in and showcased research at the 2024 ARPA-E Energy Innovation Summit.
-•	Optimizing Supply Air Temperature Control for Dedicated Outdoor Air Systems
-Funded by ASHRAE RP-1865: Lead Graduate Researcher	May 2022 – Mar. 2025 
--	Developed EnergyPlus models for Dedicated Outdoor Air System (DOAS) coupled in parallel with heat pumps, fan coil units, and chilled beams. [C5]
--	Performed large-scale optimizations using genetic algorithms on the Texas A&M High Performance Research Computing (HPRC) system. [J2, C2-3]
--	Designed machine learning-based optimization-informed supply air temperature reset strategy for DOAS configurations to support updates to ASHRAE Guideline 36. [J3, C1]
--	Presented project progress at six ASHRAE meetings.
--	Collaborate with industry partners to integrate practical insights into research.
-•	Others
--	Contributed to proposal development through simulations and energy performance analysis of cooling roof adoption in residential buildings. (Target Project: Low-Cost, Durable, and Resistant Radiative Cooling Roof for Enhanced Energy Efficiency of Low- and Medium-Income Houses, funded by DOE)
+  * <ins>Smart Meter Data Analysis</ins>	(Jun. 2024 – Present)
+     -	Assisted in analyzing **real-world smart meter electricity data** from over 1.93 million residential buildings in Harris County, Texas, with a focus on demand flexibility and building energy resilience. [**Paper**](https://doi.org/10.1016/j.scs.2025.106623)
+     -	Investigating methods for developing representative simulation models using NREL’s *ResStock* to replicate smart meter data and enable resilience studies, including scenarios involving photovoltaic (PV) systems and thermal energy storage.
+  * <ins>High-performance Whole Building Design 3D-printed Carbon–Absorbing Funicular Structures</ins><br />
+  Funded by ARPA-E HESTIA Program: Lead Graduate Researcher	(Jan. 2023 – Present)
+     -	Developed EnergyPlus models for **radiant systems coupled with ground-source heat pumps**, modeled using *GLHEPro*, in buildings with carbon-absorbing funicular structures.
+     -	Demonstrated the effectiveness of **mixed-mode ventilation** by integrating natural ventilation with a dedicated outdoor air system.
+     -	Conducted **long-term** analyses of **operational energy use and carbon emissions** using future weather files (fTMY) and carbon emission factors from the NREL *Cambium* dataset.
+     -	Participated in and showcased research at the *2024 ARPA-E Energy Innovation Summit*.
+  * <ins>Optimizing Supply Air Temperature Control for Dedicated Outdoor Air Systems</ins><br />
+  Funded by ASHRAE RP-1865: Lead Graduate Researcher	(May 2022 – Mar. 2025) 
+     -	Developed EnergyPlus models for **Dedicated Outdoor Air System (DOAS)** coupled in parallel with heat pumps, fan coil units, and chilled beams. 
+     -	Performed **large-scale optimizations** using genetic algorithms on the Texas A&M **High Performance Research Computing (HPRC)** system. [**Paper**](https://doi.org/10.1080/23744731.2024.2394358)
+     -	Designed **machine learning**-based **optimization-informed** supply air temperature reset strategy for DOAS configurations to support updates to ASHRAE Guideline 36. 
+     -	Presented project progress at six ASHRAE meetings.
+     -	**Collaborate with industry partners** to integrate practical insights into research.
+  * Others
+     -	Contributed to proposal development through simulations and energy performance analysis of cooling roof adoption in residential buildings. (Target Project: *Low-Cost, Durable, and Resistant Radiative Cooling Roof for Enhanced Energy Efficiency of Low- and Medium-Income Houses*, funded by DOE)
 
 ORISE Graduate Intern	Jun. 2025 – Aug. 2025
 Oak Ridge National Laboratory
