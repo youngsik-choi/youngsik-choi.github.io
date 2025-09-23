@@ -10,7 +10,7 @@ redirect_from:
 Research Experience
 -----
 * **Graduate Research Assistant**	(May 2022 – Present)<br />
-Building Energy and HVAC&R Research Group, Texas A&M University<br />
+[**Building Energy and HVAC&R Research Group**](hvac.engr.tamu.edu), Texas A&M University<br />
 Advisor: Dr. Zheng O’Neill	
   * <ins>Smart Meter Data Analysis</ins>	(Jun. 2024 – Present)
      -	Assisted in analyzing **real-world smart meter electricity data** from over 1.93 million residential buildings in Harris County, Texas, with a focus on demand flexibility and building energy resilience. [**Paper**](https://doi.org/10.1016/j.scs.2025.106623)
@@ -31,48 +31,41 @@ Advisor: Dr. Zheng O’Neill
   * Others
      -	Contributed to proposal development through simulations and energy performance analysis of cooling roof adoption in residential buildings. (Target Project: *Low-Cost, Durable, and Resistant Radiative Cooling Roof for Enhanced Energy Efficiency of Low- and Medium-Income Houses*, funded by DOE)
 
-ORISE Graduate Intern	Jun. 2025 – Aug. 2025
-Oak Ridge National Laboratory
+* **ORISE Graduate Intern**	(Jun. 2025 – Aug. 2025)<br />
+Oak Ridge National Laboratory<br />
 Mentors: Drs. Piljae Im and Yeobeom Yoon
-•	Development and Calibration of Building Energy Models
--	Developed a building energy model for a city-owned commercial building using architectural and mechanical drawings. Created building geometry in SketchUp with the Euclid plug-in and implemented HVAC systems in EnergyPlus. Conducted the model calibration using measured hourly electricity and gas consumption data.
-•	Fault Detection and Diagnosis of Refrigerant Charge Faults in Residential HVAC Systems
--	Contributed to the development of Automated Fault Detection and Diagnosis (AFDD) models using data from a real-world testbed.
--	Conducted a literature review on AFDD in residential buildings.
-PhD Intern	Jul. 2023 – Aug. 2023
-Pacific Northwest National Laboratory
-Mentors: Drs. Yan Chen and Xuechen (Jerry) Lei
--	Conducted a literature review on construction weights and bottom-up building energy modeling methodologies as part of the Construction Weight Analysis project.
-Graduate Research Assistant	May 2022 – Present
-Building Simulation Lab, Seoul National University
-Advisor: Dr. Cheol-Soo Park	
+  * <ins>Development and Calibration of Building Energy Models</ins>
+     -	Developed a **building energy model** for a city-owned commercial building using architectural and mechanical drawings. Created building geometry in *SketchUp* with the Euclid plug-in and implemented HVAC systems in EnergyPlus. Conducted the **model calibration** using measured hourly electricity and gas consumption data.
+  * <ins>Fault Detection and Diagnosis of Refrigerant Charge Faults in Residential HVAC Systems</ins>
+     -	Contributed to the development of **Automated Fault Detection and Diagnosis (AFDD)** models using data from a real-world testbed.
+     -	Conducted a literature review on AFDD in residential buildings.
 
-•	Development of Real-time Diagnosis Technology of Home Energy Usage and Smart & Autonomous Control/Management System 
-Funded by Korean Energy Technology Evaluation and Planning (KETEP)	Jan. 2020 – Feb. 2022 
--	Assisted in developing EnergyPlus models and conducting sensitivity analysis to identify critical input parameters before sensor installation. [C13-15]
--	Performed Relux-based artificial lighting simulations to size and determine appropriate dimmable lighting for target residential apartments.
--	Installed Internet of Things (IoT) sensors and collected data on indoor environmental conditions, occupant behavior, and energy use in existing residential buildings. Assisted in querying real-time data using Python.
-•	Development of Building Energy Management System (BEMS) Energy Saving Algorithms
-Funded by Hyundai Development Company (HDC) I-Controls	Jun. 2020 – Feb. 2021
--	Developed a machine learning-based electricity peak prediction model using real-world data for a building energy management system (BEMS) in a high-rise office building. 
--	Explored the potential of virtual-to-real transfer learning for indoor air temperature prediction by leveraging EnergyPlus simulation outputs as the source model and adapting it with real-world data. [C11]
+* **PhD Intern**	(Jul. 2023 – Aug. 2023)<br />
+Pacific Northwest National Laboratory<br />
+Mentors: Drs. Yan Chen and Xuechen (Jerry) Lei
+  * Conducted a literature review on construction weights and bottom-up building energy modeling methodologies as part of the **Construction Weight Analysis** project.
+ 
+* **Graduate Research Assistant**	(May 2022 – Present)<br />
+[**Building Simulation Lab**](bs.snu.ac.kr), Seoul National University<br />
+Advisor: Dr. Cheol-Soo Park	
+  * <ins>Development of Real-time Diagnosis Technology of Home Energy Usage and Smart & Autonomous Control/Management System</ins>
+  Funded by Korean Energy Technology Evaluation and Planning (KETEP)	Jan. 2020 – Feb. 2022 
+     -	Assisted in developing *EnergyPlus* models and conducting **sensitivity analysis** to identify critical input parameters before sensor installation. 
+     -	Performed Relux-based **artificial lighting simulations** to size and determine appropriate dimmable lighting for target residential apartments.
+     -	Installed **Internet of Things (IoT)** sensors and collected data on indoor environmental conditions, occupant behavior, and energy use in existing residential buildings. Assisted in **querying** real-time data using Python.
+  * <ins>Development of Building Energy Management System (BEMS) Energy Saving Algorithms</ins>
+  Funded by Hyundai Development Company (HDC) I-Controls	Jun. 2020 – Feb. 2021
+     -	Developed a machine learning-based **electricity peak prediction** model using real-world data for a **building energy management system (BEMS)** in a high-rise office building. 
+     -	Explored the potential of *virtual-to-real transfer learning* for indoor air temperature prediction by leveraging EnergyPlus simulation outputs as the source model and adapting it with real-world data. 
 
 Other Experience
 -----
 
-* **Undergraduate Mentor** (2023.10.-2024.2.)
-  * Texas A&M University
-  * Provided mentorship to an undergraduate team in the EnergyPlus modeling for ASHRAE 2024 Design Competition.
-  
-* **Undergraduate Peer Tutor (Work scholarship)** (2019.9.-2020.2.)
-  * Seoul National University
-  * Taught a junior from same department about major courses.
-  
-* **Construction Worksite Manager (Internship)** (2018.12.-2019.2.)
-  * Hyundai Engineering and Construction
+* **Construction Worksite Manager (Internship)** (2018.12.-2019.2.)<br />
+  Hyundai Engineering and Construction
   * Worksite manager at an apartment-type residential building construction site.
   
-* **Construction Engineer (Seabee) & Translator** (2016.8.-2018.7.)
-  * Republic of Korea Navy
+* **Construction Engineer (Seabee) & Translator** (2016.8.-2018.7.)<br />
+  Republic of Korea Navy
   * Mandatory military service
   
