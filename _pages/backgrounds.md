@@ -7,61 +7,55 @@ redirect_from:
   - "/backgrounds.html"
 ---
 
-Academic Experience
+Research Experience
 -----
-* **PhD Intern - Building Science and Building Energy Modeling** (2023.7.-2023.8.)
-  * Pacific Northwest National Laboratory
+* **Graduate Research Assistant**	(May 2022 – Present)<br />
+Building Energy and HVAC&R Research Group, Texas A&M University<br />
+Advisor: Dr. Zheng O’Neill	
+  * Smart Meter Data Analysis	Jun. 2024 – Present
+     -	Assisted in analyzing real-world smart meter electricity data from over 1.93 million residential buildings in Harris County, Texas, with a focus on demand flexibility and building energy resilience. [J1]
+     -	Investigating methods for developing representative simulation models using NREL’s ResStock to replicate smart meter data and enable resilience studies, including scenarios involving photovoltaic (PV) systems and thermal energy storage.
+•	High-performance Whole Building Design 3D-printed Carbon–Absorbing Funicular Structures
+Funded by ARPA-E HESTIA Program: Lead Graduate Researcher	Jan. 2023 – Present
+-	Developed EnergyPlus models for radiant systems coupled with ground-source heat pumps, modeled using GLHEPro, in buildings with carbon-absorbing funicular structures.
+-	Demonstrated the effectiveness of mixed-mode ventilation by integrating natural ventilation with a dedicated outdoor air system.
+-	Conducted long-term analyses of operational energy use and carbon emissions using future weather files (fTMY) and carbon emission factors from the NREL Cambium dataset.
+-	Participated in and showcased research at the 2024 ARPA-E Energy Innovation Summit.
+•	Optimizing Supply Air Temperature Control for Dedicated Outdoor Air Systems
+Funded by ASHRAE RP-1865: Lead Graduate Researcher	May 2022 – Mar. 2025 
+-	Developed EnergyPlus models for Dedicated Outdoor Air System (DOAS) coupled in parallel with heat pumps, fan coil units, and chilled beams. [C5]
+-	Performed large-scale optimizations using genetic algorithms on the Texas A&M High Performance Research Computing (HPRC) system. [J2, C2-3]
+-	Designed machine learning-based optimization-informed supply air temperature reset strategy for DOAS configurations to support updates to ASHRAE Guideline 36. [J3, C1]
+-	Presented project progress at six ASHRAE meetings.
+-	Collaborate with industry partners to integrate practical insights into research.
+•	Others
+-	Contributed to proposal development through simulations and energy performance analysis of cooling roof adoption in residential buildings. (Target Project: Low-Cost, Durable, and Resistant Radiative Cooling Roof for Enhanced Energy Efficiency of Low- and Medium-Income Houses, funded by DOE)
 
-* **Graduate Research Assistant** (2022.5.-)
-  * Texas A&M University
+ORISE Graduate Intern	Jun. 2025 – Aug. 2025
+Oak Ridge National Laboratory
+Mentors: Drs. Piljae Im and Yeobeom Yoon
+•	Development and Calibration of Building Energy Models
+-	Developed a building energy model for a city-owned commercial building using architectural and mechanical drawings. Created building geometry in SketchUp with the Euclid plug-in and implemented HVAC systems in EnergyPlus. Conducted the model calibration using measured hourly electricity and gas consumption data.
+•	Fault Detection and Diagnosis of Refrigerant Charge Faults in Residential HVAC Systems
+-	Contributed to the development of Automated Fault Detection and Diagnosis (AFDD) models using data from a real-world testbed.
+-	Conducted a literature review on AFDD in residential buildings.
+PhD Intern	Jul. 2023 – Aug. 2023
+Pacific Northwest National Laboratory
+Mentors: Drs. Yan Chen and Xuechen (Jerry) Lei
+-	Conducted a literature review on construction weights and bottom-up building energy modeling methodologies as part of the Construction Weight Analysis project.
+Graduate Research Assistant	May 2022 – Present
+Building Simulation Lab, Seoul National University
+Advisor: Dr. Cheol-Soo Park	
 
-* **Graduate Teaching Assistant** (2020.9.-2021.2.)
-  * Seoul National University
-  * Assisted teaching **Creative Engineering Design**, an undergraduate course covering following topics: Integration of architecture and **Internet of Things (IOT)**, Basics of Arduino and environmental sensors.
-
-* **Graduate Research Assistant** (2020.3.-2022.2.)
-  * Seoul National University
-  
-Ongoing Work
------
-* **Smart Meter Data Analysis**	(2024.6.-)
-  * @ Building Energy and HVAC&R Research Group, Texas A&M University
-    
-    * Exploring smart meter electricity data for 1,931,349 residential buildings in Harris County, Texas.
-    * Investigating building energy flexibility and resilience.
-
-* **DOE ARPA-E HESTIA: High-performance Whole Building Design With 3D-printed Carbon–Absorbing Funicular Structures**	(2023.1.-)
-  * @ Building Energy and HVAC&R Research Group, Texas A&M University
-    
-    * Developing EnergyPlus model for radiant system for buildings with carbon-absorbing funicular structures.
-    * Exploring direct carbon capturing potential using HVAC system.
-    * Investigating operational carbon emission reduction calculation.
-  
-* **ASHRAE 1865: Optimizing Supply Air Temperature Control for Dedicated Outdoor Air Systems**	(2022.5.-)
-  * @ Building Energy and HVAC&R Research Group, Texas A&M University
-    
-    * Developing EnergyPlus model for DOAS with heat pumps, fan coils, and chilled beams.
-    * Developing optimization-informed rule extraction framework for DOAS supply air temperature control.
-  
-
-Completed Work
------
-* **Construction Weight Analysis**	(2022.7.- 2022.8.)
-  * @  Pacific Northwest National Laboratory (PNNL)
-    
-    * Conducted a comprehensive literature review on construction weights and bottom-up building energy modeling.
-
-* **Development of Building Energy Management System Algorithms**	(2020.6.-2021.2.)
-  * @ Building Simulation Lab, Seoul National University
-    
-    * Supported by Hyundai Development Company (HDC) I-Controls, @ Seoul National University
-    * Developed machine learning-based indoor air temperature and electricity prediction models for an existing office building. 
-
-* **Development of Real-time Diagnosis Technology of Home Energy Usage and Smart & Autonomous Control/Management System** 	(2020.1.-2022.2.)
-  * @ Building Simulation Lab, Seoul National University
-    
-    * Supported by Korean Energy Technology Evaluation and Planning (KETEP), @ Seoul National University
-    * Explored machine learning-based indoor air and setpoint temperature prediction models for existing residential buildings.
+•	Development of Real-time Diagnosis Technology of Home Energy Usage and Smart & Autonomous Control/Management System 
+Funded by Korean Energy Technology Evaluation and Planning (KETEP)	Jan. 2020 – Feb. 2022 
+-	Assisted in developing EnergyPlus models and conducting sensitivity analysis to identify critical input parameters before sensor installation. [C13-15]
+-	Performed Relux-based artificial lighting simulations to size and determine appropriate dimmable lighting for target residential apartments.
+-	Installed Internet of Things (IoT) sensors and collected data on indoor environmental conditions, occupant behavior, and energy use in existing residential buildings. Assisted in querying real-time data using Python.
+•	Development of Building Energy Management System (BEMS) Energy Saving Algorithms
+Funded by Hyundai Development Company (HDC) I-Controls	Jun. 2020 – Feb. 2021
+-	Developed a machine learning-based electricity peak prediction model using real-world data for a building energy management system (BEMS) in a high-rise office building. 
+-	Explored the potential of virtual-to-real transfer learning for indoor air temperature prediction by leveraging EnergyPlus simulation outputs as the source model and adapting it with real-world data. [C11]
 
 Other Experience
 -----
