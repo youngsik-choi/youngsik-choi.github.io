@@ -6,7 +6,7 @@ author_profile: true
 ---
 Peer-reviewed Journal Papers
 -----
-**Choi, Y.**, Lu, X., and O'Neill, Z. (2025). Adopting Ground Source Heat Pumps in Commercial Buildings: Nationwide Analysis of Energy Savings and Decarbonization Potentials. *Energy Conversion and Management*, 120635.  [**Paper**](https://doi.org/10.1016/j.enconman.2025.120635)
+* **Choi, Y.**, Lu, X., and O'Neill, Z. (2025). Adopting Ground Source Heat Pumps in Commercial Buildings: Nationwide Analysis of Energy Savings and Decarbonization Potentials. *Energy Conversion and Management*, 120635.  [**Paper**](https://doi.org/10.1016/j.enconman.2025.120635)
 * Guo, M., **Choi, Y.**, Cheong, S. M., and O'Neill, Z. (2024). Current and Future Residential Electricity Demand Using Large-Scale Smart Meter Data in a Changing Climate. *Sustainable Cities and Society*, 106623. [**Paper**](https://doi.org/10.1016/j.scs.2025.106623)
 * **Choi, Y.**, Lu, X., Feng, F., and O'Neill, Z. (2024). Large-scale energy cost optimization and performance analysis for dedicated outdoor air system: simulation results from ASHRAE RP-1865. *Science and Technology for the Built Environment*, 30(10), 1217-1235. [**Paper**](https://doi.org/10.1080/23744731.2024.2394358) [**Post**](https://www.linkedin.com/posts/science-and-technology-for-the-built-environment_stbe-rp1865-doas-activity-7282033593856483331-aHgq?utm_source=share&utm_medium=member_desktop)
 * **Choi, Y.**, Lu, X., O'Neill, Z., Feng, F., and Yang, T. (2023). Optimization-informed rule extraction for HVAC system: A case study of dedicated outdoor air system control in a mixed-humid climate zone. *Energy and Buildings*, 113295. [**Paper**](https://doi.org/10.1016/j.enbuild.2023.113295)
