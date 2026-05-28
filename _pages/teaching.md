@@ -5,11 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* **Academy for Future Faculty**<br />
-  Texas A&M University (Fall 2025)
-  * Participating in a university-level professional development program aimed at equipping graduate students and postdoctoral scholars with teaching skills.
+
 * **Design Project Mentor**<br />
-  Texas A&M University (Fall 2023)
+  Teaching Supporter (Fall 2023)
   * <ins>MEEN 489: ASHRAE 2024 Design Competition</ins>
   * Provided mentorship and technical guidance to an undergraduate Capstone team competing in the *ASHRAE 2024 Design Competition*. Supported team in building energy modeling using SketchUp and EnergyPlus.
 * **Graduate Teaching Assistant**<br />
@@ -20,3 +18,9 @@ author_profile: true
 * **Peer Tutor**<br />
   Seoul National University via *Work-Study Scholarship* (Fall 2019)
   * Selected based on academic performance to provide tutoring support to fellow undergraduate students. Offered one-on-one academic assistance in major courses, including Fluid Systems in Buildings and Design and Construction of Steel Structures.
+
+<span style="font-size: 28px;">Related Program</span>
+
+* **Academy for Future Faculty**<br />
+  Texas A&M University (Fall 2025 & Spring 2026)
+  * Participated in a university-level professional development program aimed at equipping graduate students and postdoctoral scholars with teaching skills.
