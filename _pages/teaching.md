@@ -19,7 +19,7 @@ author_profile: true
   Seoul National University via *Work-Study Scholarship* (Fall 2019)
   * Selected based on academic performance to provide tutoring support to fellow undergraduate students. Offered one-on-one academic assistance in major courses, including Fluid Systems in Buildings and Design and Construction of Steel Structures.
 
-<span style="font-size: 28px;">Related Program</span>
+<h1 style="font-size: 28px;">Related Program</h1>
 
 * **Academy for Future Faculty**<br />
   Texas A&M University (Fall 2025 & Spring 2026)
