@@ -9,8 +9,7 @@ redirect_from:
 ---
 About
 ======
-I am a Ph.D. Candidate specializing in **Building Energy & HVAC** research for high-performance buildings.
-My main research interests include **building energy modeling & simulation**, **HVAC system optimal control**, and **building decarbonization**.  
+I am an incoming **postdoctoral research associate** at **Oak Ridge National Laboratory** specializing in building energy and HVAC research for high-performance buildings. My primary research interests include building energy modeling and simulation, HVAC system optimal control, and building decarbonization.
 
 [Curriculum Vitae](http://youngsik-choi.github.io/files/CV_YC_Rev_Mar26.pdf) (Last update: Mar. 2026)
 
@@ -18,7 +17,7 @@ My main research interests include **building energy modeling & simulation**, **
 Education
 ======
 
-* **Ph.D. Candidate** (2022.5.-)
+* **Ph.D.** (2022.5.-2026.5.)
   * Mechanical Engineering, **Texas A&M University**
     * Field of Study: Building Energy & HVAC Systems
     * Advisor: [Prof. Zheng O'Neill](https://hvac.engr.tamu.edu/)
