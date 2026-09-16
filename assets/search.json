@@ -1,0 +1,88 @@
+---
+layout: null
+sitemap: false
+---
+[
+{% assign comma = false %}
+{% assign searchable_page_paths = "_pages/about.md,_pages/backgrounds.md,_pages/courses.md,_pages/publications.md,_pages/talks.md,_pages/teaching.md,_pages/photos.md" | split: "," %}
+{% for item in site.pages %}
+  {% if searchable_page_paths contains item.path %}
+    {% assign search_title = item.title %}
+    {% if item.url == "/" %}
+      {% assign search_title = "Home" %}
+    {% elsif item.url == "/backgrounds/" %}
+      {% assign search_title = "Research" %}
+    {% elsif item.url == "/courses/" %}
+      {% assign search_title = "Courses" %}
+    {% elsif item.url == "/publications/" %}
+      {% assign search_title = "Publications" %}
+    {% endif %}
+    {% if search_title and search_title != "" %}
+      {% if comma %},{% endif %}
+      {
+        "title": {{ search_title | jsonify }},
+        "url": {{ item.url | relative_url | jsonify }},
+        "collection": "page",
+        "excerpt": {{ item.excerpt | default: item.content | strip_html | strip_newlines | normalize_whitespace | truncate: 180 | jsonify }},
+        "content": {{ item.content | strip_html | strip_newlines | normalize_whitespace | jsonify }}
+      }
+      {% assign comma = true %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+{% for item in site.posts %}
+  {% if comma %},{% endif %}
+  {
+    "title": {{ item.title | jsonify }},
+    "url": {{ item.url | relative_url | jsonify }},
+    "collection": "post",
+    "excerpt": {{ item.excerpt | default: item.content | strip_html | strip_newlines | normalize_whitespace | truncate: 180 | jsonify }},
+    "content": {{ item.content | strip_html | strip_newlines | normalize_whitespace | jsonify }}
+  }
+  {% assign comma = true %}
+{% endfor %}
+{% for item in site.publications %}
+  {% if comma %},{% endif %}
+  {
+    "title": {{ item.title | jsonify }},
+    "url": {{ item.url | relative_url | jsonify }},
+    "collection": "publication",
+    "excerpt": {{ item.excerpt | default: item.content | strip_html | strip_newlines | normalize_whitespace | truncate: 180 | jsonify }},
+    "content": {{ item.content | strip_html | strip_newlines | normalize_whitespace | jsonify }}
+  }
+  {% assign comma = true %}
+{% endfor %}
+{% for item in site.talks %}
+  {% if comma %},{% endif %}
+  {
+    "title": {{ item.title | jsonify }},
+    "url": {{ item.url | relative_url | jsonify }},
+    "collection": "talk",
+    "excerpt": {{ item.excerpt | default: item.content | strip_html | strip_newlines | normalize_whitespace | truncate: 180 | jsonify }},
+    "content": {{ item.content | strip_html | strip_newlines | normalize_whitespace | jsonify }}
+  }
+  {% assign comma = true %}
+{% endfor %}
+{% for item in site.teaching %}
+  {% if comma %},{% endif %}
+  {
+    "title": {{ item.title | jsonify }},
+    "url": {{ item.url | relative_url | jsonify }},
+    "collection": "teaching",
+    "excerpt": {{ item.excerpt | default: item.content | strip_html | strip_newlines | normalize_whitespace | truncate: 180 | jsonify }},
+    "content": {{ item.content | strip_html | strip_newlines | normalize_whitespace | jsonify }}
+  }
+  {% assign comma = true %}
+{% endfor %}
+{% for item in site.backgrounds %}
+  {% if comma %},{% endif %}
+  {
+    "title": {{ item.title | jsonify }},
+    "url": {{ item.url | relative_url | jsonify }},
+    "collection": "research",
+    "excerpt": {{ item.excerpt | default: item.content | strip_html | strip_newlines | normalize_whitespace | truncate: 180 | jsonify }},
+    "content": {{ item.content | strip_html | strip_newlines | normalize_whitespace | jsonify }}
+  }
+  {% assign comma = true %}
+{% endfor %}
+]

@@ -1,11 +1,8 @@
 # main links links
 main:
 
-  - title: "Experience"
+  - title: "Research"
     url: /backgrounds/
-  
-  - title: "Courses"
-    url: /courses/
   
   - title: "Publications"
     url: /publications/
@@ -15,6 +12,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Photos"
+    url: /photos/
     
   #- title: "CV"
   #  url: /cv/

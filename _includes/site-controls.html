@@ -1,0 +1,16 @@
+{% include base_path %}
+
+<div class="site-controls" data-search-index="{{ "/assets/search.json" | relative_url }}">
+  <button class="site-control-button site-search-toggle" type="button" aria-label="Open site search" aria-expanded="false" aria-controls="site-search-panel">
+    <i class="fas fa-search" aria-hidden="true"></i>
+  </button>
+  <button class="site-control-button site-theme-toggle" type="button" aria-label="Switch to dark mode" aria-pressed="false" data-theme-toggle>
+    <i class="fas fa-moon" aria-hidden="true"></i>
+  </button>
+
+  <div class="site-search-panel" id="site-search-panel" hidden>
+    <label class="site-search-label" for="site-search-input">Search this site</label>
+    <input class="site-search-input" id="site-search-input" type="search" placeholder="Search research, publications, talks..." autocomplete="off">
+    <div class="site-search-results" id="site-search-results" role="list" aria-live="polite"></div>
+  </div>
+</div>
