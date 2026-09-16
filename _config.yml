@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Youngsik Choi"
   avatar           : "profile.png"
-  bio              : "youngsik.choi@tamu.edu"
-  location         : "College Station, TX, USA"
+  bio              : "choiy2@ornl.gov"
+  location         : "Oak Ridge, TN, USA"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  https://scholar.google.com/citations?user=uXGTzJ4AAAAJ&hl=en# "http://yourfullgooglescholarurl.com"
+  googlescholar    :  https://scholar.google.com/citations?user=OgdhQc8AAAAJ&hl=ko&oi=ao
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
