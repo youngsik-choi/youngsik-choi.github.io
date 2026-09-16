@@ -5,7 +5,7 @@ permalink: /photos/
 author_profile: true
 ---
 
-A small collection of moments from research, travel, and everyday places. Photos will be added here over time.
+--
 
 <!--
 To add a real photo later:
@@ -16,16 +16,16 @@ To add a real photo later:
 -->
 
 <div class="photo-entry">
-  <p class="photo-caption">A short note for the first photo can go here. Replace this text with a simple description when the image is ready.</p>
+  <p class="photo-caption">--</p>
   <div class="photo-placeholder" role="img" aria-label="Photo coming soon">Photo coming soon</div>
 </div>
 
 <div class="photo-entry">
-  <p class="photo-caption">A second photo can be introduced with one or two calm, descriptive lines.</p>
+  <p class="photo-caption">--</p>
   <div class="photo-placeholder" role="img" aria-label="Photo coming soon">Photo coming soon</div>
 </div>
 
 <div class="photo-entry">
-  <p class="photo-caption">A third photo can use the same structure, keeping the page easy to maintain.</p>
+  <p class="photo-caption">--</p>
   <div class="photo-placeholder" role="img" aria-label="Photo coming soon">Photo coming soon</div>
 </div>
