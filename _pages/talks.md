@@ -4,7 +4,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-* “ASHRAE RP-1865: Optimization of Supply Air Temperature for DOAS”, Invited talk at 2026 ASHRAE Winter Conference, Las Vegas, NV, USA, Feb. 3, 2026.
+* “ASHRAE RP-1865: Optimization of Supply Air Temperature for DOAS”, Invited talk at **2026 ASHRAE Winter Conference**, Las Vegas, NV, USA, Feb. 3, 2026.
 * “Model Predictive Control-Informed Rule-Based Strategy for Enhancing Pre-Cooling Operations in Residential Buildings during Heat Waves: Simulation and Field Testing”, Seminar talk at **2025 ASHRAE Annual Conference**, Phoenix, AZ, USA, Jun. 25, 2025.
 * “Optimization-informed Dedicated Outdoor Air System Supply Air Temperature Reset Strategy”, Oral presentation at **2025 ASHRAE Annual Conference**, Phoenix, AZ, USA, Jun. 25, 2025.
 * “Modeling and Control of Smart HVAC Systems: Insights from Research on Dedicated Outdoor Air Systems”, Invited talk at **Pukyong National University**, Busan, South Korea (Virtual Seminar), Apr. 29, 2025.
