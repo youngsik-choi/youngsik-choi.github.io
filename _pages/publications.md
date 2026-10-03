@@ -35,4 +35,4 @@ Conference Papers
 
 Technical Reports
 -----
-* O’Neill, Z., Zhou, X., and **Choi, Y.**, ASHRAE Research Project Report 1865-RP: Optimizing Supply Air Temperature Control for Dedicated Outdoor Air System.
+* ASHRAE Research Project Report 1865-RP: Optimizing Supply Air Temperature Control for Dedicated Outdoor Air System.
