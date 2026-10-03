@@ -9,9 +9,9 @@ redirect_from:
 ---
 About
 ======
-I am a **Postdoctoral Researcher** at **Oak Ridge National Laboratory** specializing in building energy and HVAC research for high-performance buildings. My primary research interests include building energy modeling and simulation, HVAC system optimal control, and building decarbonization.
+I am a **Postdoctoral Researcher** at **Oak Ridge National Laboratory** specializing in building energy and HVAC research for high-performance buildings. My primary research interests include building energy modeling and simulation, optimal control of HVAC systems, and the integration of AI into building energy applications.
 
-[Curriculum Vitae](http://youngsik-choi.github.io/files/CV_YC_Rev_Mar26.pdf) (Last update: Mar. 2026)
+[Curriculum Vitae](http://youngsik-choi.github.io/files/CV_YC_Rev_Oct26.pdf) (Last update: Oct. 2026)
 
 
 Education
