@@ -21,7 +21,7 @@ Education
   * Mechanical Engineering, **Texas A&M University**
     * Field of Study: Building Energy & HVAC Systems
     * Advisor: [Prof. Zheng O'Neill](https://hvac.engr.tamu.edu/)
-    * Dissertation: Optimizing Dedicated Outdoor Air Systems and Exploring Synergies with Heat Pumps for Energy-Efficient Buildings
+    * Dissertation: *Optimizing Dedicated Outdoor Air Systems and Exploring Synergies with Heat Pumps for Energy-Efficient Buildings*
 
 * **M.S.** (2020.3.-2022.2.)
   * Architecture and Architectural Engineering, **Seoul National University**
