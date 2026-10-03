@@ -23,5 +23,5 @@ author_profile: true
 
 * **Academy for Future Faculty**<br />
   Texas A&M University (Spring 2026)
-  * Earned **CIRTL Associate** status through a teaching development program for graduate students and postdoctoral scholars.
+  * Earned [**CIRTL Associate**](http://youngsik-choi.github.io/files/aff_certificate.pdf) status through a teaching development program for graduate students and postdoctoral scholars.
 
