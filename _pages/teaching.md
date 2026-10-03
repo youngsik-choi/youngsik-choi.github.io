@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 
-* **Design Project Mentor**<br />
-  Teaching Supporter (Fall 2023)
+* **Teaching Supporter**<br />
+  TAMU MEEN 489: ASHRAE 2024 Design Competition (Fall 2023)
   * <ins>MEEN 489: ASHRAE 2024 Design Competition</ins>
   * Provided mentorship and technical guidance to an undergraduate Capstone team competing in the *ASHRAE 2024 Design Competition*. Supported team in building energy modeling using SketchUp and EnergyPlus.
 * **Graduate Teaching Assistant**<br />
@@ -22,5 +22,6 @@ author_profile: true
 <h1 style="font-size: 28px;">Related Program</h1>
 
 * **Academy for Future Faculty**<br />
-  Texas A&M University (Fall 2025 & Spring 2026)
-  * Participated in a university-level professional development program aimed at equipping graduate students and postdoctoral scholars with teaching skills.
+  Texas A&M University (Spring 2026)
+  * Earned **CIRTL Associate** status through a teaching development program for graduate students and postdoctoral scholars.
+
