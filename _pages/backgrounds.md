@@ -9,14 +9,22 @@ redirect_from:
 
 Research Experience
 -----
-* **Graduate Research Assistant**	(May 2022 – Present)<br />
+* **Postdoctoral Research Associate**	(Jul. 2026 – Present)<br />
+Integrated Building Deployment and Analysis Group, Oak Ridge National Laboratory<br />
+  * Contribute to U.S. DOE projects on **building energy modeling**, **retrofit analysis**, and **AI integration** into building energy simulation.
+  * Support the DOE Weatherization Assistance Program (WAP) in developing retrofit priority lists for multifamily buildings serving low-income households.
+
+* **Graduate Research Assistant**	(May 2022 – May 2026)<br />
 [**Building Energy and HVAC&R Research Group**](https://hvac.engr.tamu.edu), Texas A&M University<br />
-Advisor: Dr. Zheng O’Neill	
-  * <ins>Smart Meter Data Analysis</ins>	(Jun. 2024 – Present)
+Advisor: Dr. Zheng O’Neill
+  * <ins>Impact of Residential Mid-Efficiency Inverter AC/HPs on Texas Electric Grid</ins>	(Feb. 2026 – Jul. 2026)
+     -	Calibrated the TAMU Smart Home virtual testbed model to simulate zone air temperature and airsource heat pump performance in heating and cooling modes.
+     -	Developed a *ResStock*-based **building stock modeling** framework to assess HVAC replacement scenarios and the deployment potential of variable-speed air-source heat pumps across Texas. 
+  * <ins>Smart Meter Data Analysis</ins>	(Jun. 2024 – May 2026)
      -	Assisted in analyzing **real-world smart meter electricity data** from over 1.93 million residential buildings in Harris County, Texas, with a focus on demand flexibility and building energy resilience. [**Paper**](https://doi.org/10.1016/j.scs.2025.106623)
      -	Investigating methods for developing representative simulation models using NREL’s *ResStock* to replicate smart meter data and enable resilience studies, including scenarios involving photovoltaic (PV) systems and thermal energy storage.
   * <ins>High-performance Whole Building Design 3D-printed Carbon–Absorbing Funicular Structures</ins><br />
-  Funded by ARPA-E HESTIA Program: Lead Graduate Researcher	(Jan. 2023 – Present)
+  Funded by ARPA-E HESTIA Program: Lead Graduate Researcher	(Jan. 2023 – Jun. 2025)
      -	Developed EnergyPlus models for **radiant systems coupled with ground-source heat pumps**, modeled using *GLHEPro*, in buildings with carbon-absorbing funicular structures.
      -	Demonstrated the effectiveness of **mixed-mode ventilation** by integrating natural ventilation with a dedicated outdoor air system.
      -	Conducted **long-term** analyses of **operational energy use and carbon emissions** using future weather files (fTMY) and carbon emission factors from the NREL *Cambium* dataset.
@@ -45,7 +53,7 @@ Pacific Northwest National Laboratory<br />
 Mentors: Drs. Yan Chen and Xuechen (Jerry) Lei
   * Conducted a literature review on construction weights and bottom-up building energy modeling methodologies as part of the **Construction Weight Analysis** project.
  
-* **Graduate Research Assistant**	(May 2022 – Present)<br />
+* **Graduate Research Assistant**	(Jan. 2020 – Feb. 2022)<br />
 [**Building Simulation Lab**](https://bs.snu.ac.kr), Seoul National University<br />
 Advisor: Dr. Cheol-Soo Park	
   * <ins>Development of Real-time Diagnosis Technology of Home Energy Usage and Smart & Autonomous Control/Management System</ins>
